@@ -1,0 +1,238 @@
+{
+  "categories": [
+    {
+      "id": "ts1_text_analysis",
+      "name": "TS1: Text analysis",
+      "cards": [
+        {
+          "english_word": "fairy tale",
+          "german_word": "Märchen",
+          "english_example": "In fairy tales, the youngest of three sons is often the hero.",
+          "german_example": "In Märchen ist der jüngste von drei Söhnen oft der Held."
+        },
+        {
+          "english_word": "entire",
+          "german_word": "gesamt; ganz; komplett",
+          "english_example": "It wasn't just a bad day; it was the worst day in my entire life!",
+          "german_example": "Es war nicht nur ein schlechter Tag; es war der schlimmste Tag in meinem ganzen Leben!"
+        },
+        {
+          "english_word": "to dress up",
+          "german_word": "sich verkleiden; sich herausputzen; sich feinmachen",
+          "english_example": "He dressed up as a wizard on Halloween.",
+          "german_example": "Er verkleidete sich an Halloween als Zauberer."
+        },
+        {
+          "english_word": "amount (of)",
+          "german_word": "Menge",
+          "english_example": "When the washing machine broke, there was a large amount of water on the floor.",
+          "german_example": "Als die Waschmaschine kaputtging, war eine große Menge Wasser auf dem Boden."
+        },
+        {
+          "english_word": "Japanese",
+          "german_word": "japanisch; Japanisch; Japaner/-in",
+          "english_example": "I am learning Japanese to be able to understand anime series.",
+          "german_example": "Ich lerne Japanisch, um Anime-Serien verstehen zu können."
+        },
+        {
+          "english_word": "to strive (for/to)",
+          "german_word": "(an)streben; sich bemühen (um)",
+          "english_example": "He's striving to be an English professor.",
+          "german_example": "Er strebt danach, Englischprofessor zu werden."
+        },
+        {
+          "english_word": "effort",
+          "german_word": "Bemühung; Mühe",
+          "english_example": "This project was so much effort!",
+          "german_example": "Dieses Projekt war so viel Mühe!"
+        },
+        {
+          "english_word": "to defend",
+          "german_word": "verteidigen",
+          "english_example": "I always defend my little sister when she's made a mistake.",
+          "german_example": "Ich verteidige meine kleine Schwester immer, wenn sie einen Fehler gemacht hat."
+        },
+        {
+          "english_word": "to aim to do sth",
+          "german_word": "etw. anstreben; abzielen auf etw.",
+          "english_example": "What do you aim to do in life?",
+          "german_example": "Was strebst du im Leben an?"
+        },
+        {
+          "english_word": "to put forward",
+          "german_word": "vorbringen",
+          "english_example": "Before anybody else could say something, she put forward her arguments.",
+          "german_example": "Bevor irgendjemand anderes etwas sagen konnte, brachte sie ihre Argumente vor."
+        },
+        {
+          "english_word": "to intend",
+          "german_word": "beabsichtigen; intendieren",
+          "english_example": "How do you intend to celebrate your 18th birthday? – I'd like to invite everybody I know.",
+          "german_example": "Wie beabsichtigst du deinen 18. Geburtstag zu feiern? – Ich möchte jeden einladen, den ich kenne."
+        },
+        {
+          "english_word": "objective",
+          "german_word": "objektiv",
+          "english_example": "objective = not influenced by any personal opinion",
+          "german_example": "objektiv = nicht von einer persönlichen Meinung beeinflusst"
+        },
+        {
+          "english_word": "complex",
+          "german_word": "komplexe/-r/-s",
+          "english_example": "This text is full of complex sentences.",
+          "german_example": "Dieser Text ist voller komplexer Sätze."
+        },
+        {
+          "english_word": "plain",
+          "german_word": "klar; schlicht; einfach; deutlich",
+          "english_example": "There's a plain little restaurant in our street.",
+          "german_example": "Es gibt ein einfaches kleines Restaurant in unserer Straße."
+        },
+        {
+          "english_word": "concise",
+          "german_word": "präzise; kurz; prägnant",
+          "english_example": "His orders were concise and clear.",
+          "german_example": "Seine Befehle waren prägnant und klar."
+        },
+        {
+          "english_word": "scientific",
+          "german_word": "wissenschaftlich; naturwissenschaftlich",
+          "english_example": "Doctors often use scientific words which normal people don't understand.",
+          "german_example": "Ärzte verwenden oft wissenschaftliche Wörter, die normale Menschen nicht verstehen."
+        },
+        {
+          "english_word": "imagery",
+          "german_word": "Bilder; Bildsprache; Metaphorik",
+          "english_example": "There's a lot of imagery in this text. You could easily make a graphic novel out of it.",
+          "german_example": "In diesem Text gibt es viel Bildsprache. Man könnte leicht eine Graphic Novel daraus machen."
+        },
+        {
+          "english_word": "quote",
+          "german_word": "Zitat",
+          "english_example": "The journalist uses a lot of quotes from different experts.",
+          "german_example": "Der Journalist verwendet viele Zitate von verschiedenen Experten."
+        },
+        {
+          "english_word": "to conclude",
+          "german_word": "enden; schließen; schlussfolgern",
+          "english_example": "At the end of the article the author concludes that it's too late to stop climate change.",
+          "german_example": "Am Ende des Artikels kommt der Autor zu dem Schluss, dass es zu spät ist, den Klimawandel aufzuhalten."
+        },
+        {
+          "english_word": "at the end of the day",
+          "german_word": "unterm Strich; letztendlich",
+          "english_example": "We worked really hard on the project but at the end of the day it wasn't profitable.",
+          "german_example": "Wir haben wirklich hart an dem Projekt gearbeitet, aber unterm Strich war es nicht rentabel."
+        },
+        {
+          "english_word": "miracle",
+          "german_word": "Wunder; Wunder-",
+          "english_example": "It was a miracle that they survived the accident.",
+          "german_example": "Es war ein Wunder, dass sie den Unfall überlebt haben."
+        },
+        {
+          "english_word": "label",
+          "german_word": "Etikett; Beschriftung",
+          "english_example": "label = a piece of paper on a bottle, box etc. that tells you about what is inside.",
+          "german_example": "label = ein Stück Papier auf einer Flasche, Schachtel usw., das einem sagt, was darin ist."
+        },
+        {
+          "english_word": "to grant",
+          "german_word": "zusichern; gewähren",
+          "english_example": "The teacher granted his students permission to leave the class at any time.",
+          "german_example": "Der Lehrer gewährte seinen Schülern die Erlaubnis, die Klasse jederzeit zu verlassen."
+        },
+        {
+          "english_word": "to acquire sth",
+          "german_word": "etw. erwerben; sich etw. aneignen",
+          "english_example": "As people grow older, their faces acquire more character.",
+          "german_example": "Wenn Menschen älter werden, bekommen ihre Gesichter mehr Charakter."
+        },
+        {
+          "english_word": "desire",
+          "german_word": "Wunsch; Sehnsucht; Verlangen",
+          "english_example": "His only desire was to become a pop star.",
+          "german_example": "Sein einziger Wunsch war es, ein Popstar zu werden."
+        },
+        {
+          "english_word": "purse",
+          "german_word": "Geldbeutel",
+          "english_example": "You can keep your money in a purse. ! Careful: A purse (AE) - a handbag (BE)",
+          "german_example": "Man kann sein Geld in einem Geldbeutel aufbewahren. ! Vorsicht: Ein „purse“ bedeutet im amerikanischen Englisch Handtasche, im britischen Englisch Portemonnaie."
+        },
+        {
+          "english_word": "identical",
+          "german_word": "identisch; gleich",
+          "english_example": "Look, the two boys look the same. They're identical twins.",
+          "german_example": "Schau, die beiden Jungen sehen gleich aus. Sie sind eineiige Zwillinge."
+        },
+        {
+          "english_word": "to suffer (from)",
+          "german_word": "leiden (unter)",
+          "english_example": "The Native Americans were treated badly and had to suffer.",
+          "german_example": "Die amerikanischen Ureinwohner wurden schlecht behandelt und mussten leiden."
+        },
+        {
+          "english_word": "trauma, traumas / traumata",
+          "german_word": "Trauma; seelischer Schock",
+          "english_example": "The accident caused a trauma they could never get over.",
+          "german_example": "Der Unfall verursachte ein Trauma, das sie nie überwinden konnten."
+        },
+        {
+          "english_word": "rare",
+          "german_word": "rar; selten",
+          "english_example": "Rare animals and plants are not often seen.",
+          "german_example": "Seltene Tiere und Pflanzen sieht man nicht oft."
+        },
+        {
+          "english_word": "handsome",
+          "german_word": "attraktiv; gut aussehend",
+          "english_example": "I think my brother is the most handsome boy at school.",
+          "german_example": "Ich finde, mein Bruder ist der bestaussehende Junge an der Schule."
+        },
+        {
+          "english_word": "to deny",
+          "german_word": "leugnen; abstreiten; verweigern",
+          "english_example": "You cannot deny the fact that you lied to me.",
+          "german_example": "Du kannst die Tatsache nicht leugnen, dass du mich angelogen hast."
+        },
+        {
+          "english_word": "sensible",
+          "german_word": "vernünftig",
+          "english_example": "Looking at the sky it would be sensible to take an umbrella. ! sensible ≠ dt. sensibel",
+          "german_example": "Wenn man in den Himmel schaut, wäre es vernünftig, einen Regenschirm mitzunehmen. ! sensible bedeutet nicht sensibel."
+        },
+        {
+          "english_word": "flesh",
+          "german_word": "Fleisch",
+          "english_example": "My children are my own flesh and blood.",
+          "german_example": "Meine Kinder sind mein eigenes Fleisch und Blut."
+        },
+        {
+          "english_word": "weary",
+          "german_word": "müde; überdrüssig",
+          "english_example": "I'm weary of telling you the rules over and over again.",
+          "german_example": "Ich bin es leid, dir die Regeln immer und immer wieder zu erklären."
+        },
+        {
+          "english_word": "regret",
+          "german_word": "Bedauern; Reue",
+          "english_example": "After the death of my grandmother my only regret is that I didn't visit her more often.",
+          "german_example": "Nach dem Tod meiner Großmutter ist mein einziges Bedauern, dass ich sie nicht öfter besucht habe."
+        },
+        {
+          "english_word": "to identify",
+          "german_word": "aufzeigen; (sich) identifizieren",
+          "english_example": "The new virus was first identified in China.",
+          "german_example": "Das neue Virus wurde zuerst in China identifiziert."
+        },
+		{
+          "english_word": "meaningful",
+          "german_word": "aussagekräftig; bedeutsam; wichtig",
+          "english_example": "Whether something is meaningful or not depends on one's perspective; people see things differently.",
+          "german_example": "Ob etwas bedeutsam ist oder nicht, hängt von der Perspektive ab; Menschen sehen die Dinge unterschiedlich."
+        }
+      ]
+    }
+  ]
+}

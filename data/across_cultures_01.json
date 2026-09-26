@@ -1,0 +1,460 @@
+{
+  "categories": [
+    {
+      "id": "ac1_the_world_speaks_english",
+      "name": "AC1: The world speaks English",
+      "cards": [
+        {
+          "english_word": "segregation",
+          "german_word": "Segregation; Trennung; Rassentrennung",
+          "english_example": "Apartheid meant racial segregation.",
+          "german_example": "Apartheid bedeutete Rassentrennung."
+        },
+        {
+          "english_word": "apartheid",
+          "german_word": "Apartheid",
+          "english_example": "The South African apartheid system ended in 1994.",
+          "german_example": "Das südafrikanische Apartheid-System endete 1994."
+        },
+        {
+          "english_word": "racism",
+          "german_word": "Rassismus",
+          "english_example": "Apartheid was based on racism.",
+          "german_example": "Apartheid basierte auf Rassismus."
+        },
+        {
+          "english_word": "forward",
+          "german_word": "vorwärts",
+          "english_example": "Don't turn around. Move forward.",
+          "german_example": "Dreh dich nicht um. Geh vorwärts."
+        },
+        {
+          "english_word": "icon",
+          "german_word": "Ikone; Symbol",
+          "english_example": "Nelson Mandela was an icon for the black population.",
+          "german_example": "Nelson Mandela war ein Symbol für die schwarze Bevölkerung."
+        },
+        {
+          "english_word": "civil rights (pl)",
+          "german_word": "Bürgerrechte",
+          "english_example": "Nelson Mandela was South Africa's most important civil rights leader.",
+          "german_example": "Nelson Mandela war Südafrikas wichtigster Bürgerrechtler."
+        },
+        {
+          "english_word": "election",
+          "german_word": "Wahl",
+          "english_example": "The first free elections in South Africa were in 1994.",
+          "german_example": "Die ersten freien Wahlen in Südafrika waren 1994."
+        },
+        {
+          "english_word": "back",
+          "german_word": "damals",
+          "english_example": "Back in 1994, South Africa became a free country.",
+          "german_example": "Damals im Jahr 1994 wurde Südafrika ein freies Land."
+        },
+        {
+          "english_word": "ancient",
+          "german_word": "alt; altertümlich; antik",
+          "english_example": "ancient = very, very old",
+          "german_example": "ancient = sehr, sehr alt"
+        },
+        {
+          "english_word": "Hindu",
+          "german_word": "Hindu; hinduistisch",
+          "english_example": "Most of the Indian population practise the Hindu religion.",
+          "german_example": "Der Großteil der indischen Bevölkerung übt die hinduistische Religion aus."
+        },
+        {
+          "english_word": "Buddhist",
+          "german_word": "Buddhist/-in; buddhistisch",
+          "english_example": "Buddhists believe in the words of Buddha.",
+          "german_example": "Buddhisten glauben an die Worte Buddhas."
+        },
+        {
+          "english_word": "romantic",
+          "german_word": "romantisch",
+          "english_example": "If I ever marry, I don't want any of that romantic stuff.",
+          "german_example": "Wenn ich jemals heirate, will ich nichts von diesem romantischen Zeug."
+        },
+        {
+          "english_word": "discrimination",
+          "german_word": "Diskriminierung",
+          "english_example": "We must stop discrimination against women.",
+          "german_example": "Wir müssen die Diskriminierung von Frauen stoppen."
+        },
+        {
+          "english_word": "widespread",
+          "german_word": "weit verbreitet",
+          "english_example": "Discrimination against all kinds of people is widespread.",
+          "german_example": "Diskriminierung von allen möglichen Menschen ist weit verbreitet."
+        },
+        {
+          "english_word": "sexual",
+          "german_word": "sexuell",
+          "english_example": "As teenagers we usually find out about our sexual orientation.",
+          "german_example": "Als Teenager finden wir normalerweise unsere sexuelle Orientierung heraus."
+        },
+        {
+          "english_word": "harassment",
+          "german_word": "Belästigung; Schikane",
+          "english_example": "In India, sexual harassment is a big problem.",
+          "german_example": "In Indien ist sexuelle Belästigung ein großes Problem."
+        },
+        {
+          "english_word": "democratic",
+          "german_word": "demokratisch",
+          "english_example": "In democratic systems all people have the same rights.",
+          "german_example": "In demokratischen Systemen haben alle Menschen die gleichen Rechte."
+        },
+        {
+          "english_word": "cliché",
+          "german_word": "Klischee",
+          "english_example": "It's a cliché that all black people can dance.",
+          "german_example": "Es ist ein Klischee, dass alle Schwarzen tanzen können."
+        },
+        {
+          "english_word": "intense",
+          "german_word": "intensiv; heftig",
+          "english_example": "Love is an intense feeling.",
+          "german_example": "Liebe ist ein intensives Gefühl."
+        },
+        {
+          "english_word": "I can't help (+ -ing)",
+          "german_word": "Ich kann nicht anders (als zu) ...",
+          "english_example": "I couldn't help laughing about the story, it was so funny.",
+          "german_example": "Ich konnte nicht anders, als über die Geschichte zu lachen, sie war so lustig."
+        },
+        {
+          "english_word": "bright",
+          "german_word": "hell; leuchtend; strahlend",
+          "english_example": "In the summer, the sun is very bright.",
+          "german_example": "Im Sommer ist die Sonne sehr hell."
+        },
+        {
+          "english_word": "chaotic",
+          "german_word": "chaotisch",
+          "english_example": "For Europeans, India often feels chaotic.",
+          "german_example": "Für Europäer fühlt sich Indien oft chaotisch an."
+        },
+        {
+          "english_word": "Aussie (coll)",
+          "german_word": "Australier/-in; australisch (ugs.)",
+          "english_example": "Aussie = Australian",
+          "german_example": "Aussie = Australier/-in"
+        },
+        {
+          "english_word": "surf instructor",
+          "german_word": "Surflehrer/-in",
+          "english_example": "A surf instructor shows you how to surf.",
+          "german_example": "Ein Surflehrer zeigt dir, wie man surft."
+        },
+        {
+          "english_word": "to envy",
+          "german_word": "beneiden",
+          "english_example": "Paul envied his brother. He wanted to be as successful as he was, but he simply wasn't good enough.",
+          "german_example": "Paul beneidete seinen Bruder. Er wollte genauso erfolgreich sein wie er, aber er war einfach nicht gut genug."
+        },
+        {
+          "english_word": "*to be stuck",
+          "german_word": "festsitzen; feststecken; hängen bleiben",
+          "english_example": "If you're stuck in a place, you can't get out.",
+          "german_example": "Wenn du an einem Ort feststeckst, kannst du nicht herauskommen."
+        },
+        {
+          "english_word": "to apply (to)",
+          "german_word": "gelten (für); zutreffen (auf)",
+          "english_example": "This system of working applies to other tasks or situations too.",
+          "german_example": "Diese Arbeitsweise gilt auch für andere Aufgaben oder Situationen."
+        },
+        {
+          "english_word": "Aboriginal",
+          "german_word": "von australischen Ureinwohnern abstammend; Ureinwohner/-in Australiens",
+          "english_example": "Aboriginal culture follows an old tradition.",
+          "german_example": "Die Kultur der Ureinwohner folgt einer alten Tradition."
+        },
+        {
+          "english_word": "resident",
+          "german_word": "Bewohner/-in; Einwohner/-in",
+          "english_example": "He's a resident of Sydney; he's lived there for two years now.",
+          "german_example": "Er ist ein Einwohner von Sydney; er lebt dort jetzt seit zwei Jahren."
+        },
+        {
+          "english_word": "gay (infml)",
+          "german_word": "schwul; homosexuell; Schwuler; Homosexueller",
+          "english_example": "You're my friend. It doesn't make a difference to me if you're gay.",
+          "german_example": "Du bist mein Freund. Es macht für mich keinen Unterschied, ob du schwul bist."
+        },
+        {
+          "english_word": "mate (infml)",
+          "german_word": "Kumpel (ugs.)",
+          "english_example": "In Australia or Britain (not the US), boys and men often call their friends their mates.",
+          "german_example": "In Australien oder Großbritannien (nicht in den USA) nennen Jungen und Männer ihre Freunde oft Kumpels."
+        },
+        {
+          "english_word": "to head (for/to)",
+          "german_word": "zusteuern auf; sich auf den Weg machen nach / zu",
+          "english_example": "If you head for a place, you move towards it.",
+          "german_example": "Wenn man auf einen Ort zusteuert, bewegt man sich darauf zu."
+        },
+        {
+          "english_word": "the outback",
+          "german_word": "Outback (australisches Hinterland)",
+          "english_example": "The outback is the wild, empty country far away from Australia's towns and cities.",
+          "german_example": "Das Outback ist das wilde, leere Land weit weg von Australiens Städten und Großstätten."
+        },
+        {
+          "english_word": "seat",
+          "german_word": "Sitz; Sitzplatz",
+          "english_example": "seat = the place where you sit (in a train, theatre, etc.)",
+          "german_example": "seat = der Platz, an dem man sitzt (in einem Zug, Theater usw.)"
+        },
+        {
+          "english_word": "billion",
+          "german_word": "Milliarde",
+          "english_example": "There are nearly 8 billion people in the whole world.",
+          "german_example": "Es gibt fast 8 Milliarden Menschen auf der ganzen Welt."
+        },
+        {
+          "english_word": "Muslim",
+          "german_word": "Muslim/-in; muslimisch",
+          "english_example": "She's Hindu and her husband is Muslim.",
+          "german_example": "Sie ist Hindu und ihr Ehemann ist Muslim."
+        },
+        {
+          "english_word": "percentage",
+          "german_word": "Prozentsatz",
+          "english_example": "Let's find out what percentage of the world's population are women.",
+          "german_example": "Finden wir heraus, wie viel Prozent der Weltbevölkerung Frauen sind."
+        },
+        {
+          "english_word": "*to be said to (+ inf)",
+          "german_word": "gelten als",
+          "english_example": "French cooking is said to be the world's best.",
+          "german_example": "Die französische Küche soll die beste der Welt sein / gilt als die beste der Welt."
+        },
+        {
+          "english_word": "as early as",
+          "german_word": "schon",
+          "english_example": "Aboriginal people lived in Australia as early as 50,000 years ago.",
+          "german_example": "Ureinwohner lebten schon vor 50.000 Jahren in Australien."
+        },
+        {
+          "english_word": "to perform",
+          "german_word": "durchführen; verrichten",
+          "english_example": "Instead of talking, you should just perform your tasks.",
+          "german_example": "Anstatt zu reden, solltest du einfach deine Aufgaben verrichten."
+        },
+        {
+          "english_word": "plastic surgery (no pl)",
+          "german_word": "Schönheitschirurgie",
+          "english_example": "After an accident people sometimes need plastic surgery.",
+          "german_example": "Nach einem Unfall benötigen Menschen manchmal Schönheitschirurgie."
+        },
+        {
+          "english_word": "Latin",
+          "german_word": "Latein; lateinisch",
+          "english_example": "The Italian, Spanish and French languages all come from Latin.",
+          "german_example": "Die italienische, spanische und französische Sprache stammen alle vom Lateinischen ab."
+        },
+        {
+          "english_word": "Chinese",
+          "german_word": "Chinese / Chinesin; chinesisch; Chinesisch; aus China",
+          "english_example": "Many Australians have an Italian or Chinese background.",
+          "german_example": "Viele Australier haben einen italienischen oder chinesischen Hintergrund."
+        },
+        {
+          "english_word": "crocodile",
+          "german_word": "Krokodil",
+          "english_example": "In Europe, crocodiles can only be found in zoos.",
+          "german_example": "In Europa sind Krokodile nur in Zoos zu finden."
+        },
+        {
+          "english_word": "increasingly",
+          "german_word": "zunehmend",
+          "english_example": "Young people's lives are being increasingly influenced by social media.",
+          "german_example": "Das Leben junger Menschen wird zunehmend von sozialen Medien beeinflusst."
+        },
+        {
+          "english_word": "lingua franca",
+          "german_word": "Verkehrssprache",
+          "english_example": "English is often used as a lingua franca.",
+          "german_example": "Englisch wird oft als Verkehrssprache verwendet."
+        },
+        {
+          "english_word": "shipping",
+          "german_word": "Versand; Transport (von Gütern)",
+          "english_example": "I have to pay for shipping when I order sth from the US.",
+          "german_example": "Ich muss für den Versand bezahlen, wenn ich etwas aus den USA bestelle."
+        },
+        {
+          "english_word": "computing",
+          "german_word": "EDV",
+          "english_example": "Computing made the world of work turn faster.",
+          "german_example": "Die EDV hat dafür gesorgt, dass sich die Arbeitswelt schneller dreht."
+        },
+        {
+          "english_word": "to suggest",
+          "german_word": "andeuten; nahelegen",
+          "english_example": "These numbers suggest that the average income of women is lower than we thought.",
+          "german_example": "Diese Zahlen legen nahe, dass das Durchschnittseinkommen von Frauen niedriger ist, als wir dachten."
+        },
+        {
+          "english_word": "to associate",
+          "german_word": "assoziieren; verbinden",
+          "english_example": "What do you associate with immigration?",
+          "german_example": "Was verbindest du mit Einwanderung?"
+        },
+        {
+          "english_word": "progress",
+          "german_word": "Fortschritt",
+          "english_example": "The students in the English class make good progress.",
+          "german_example": "Die Schüler im Englischkurs machen gute Fortschritte."
+        },
+        {
+          "english_word": "rise",
+          "german_word": "Anstieg; Zunahme; Aufstieg",
+          "english_example": "The rise of the average temperature mustn't be higher than two degrees.",
+          "german_example": "Der Anstieg der Durchschnittstemperatur darf nicht höher als zwei Grad sein."
+        },
+        {
+          "english_word": "to assist",
+          "german_word": "helfen; vorantreiben",
+          "english_example": "Our club assists minorities in the fight against racism.",
+          "german_example": "Unser Verein unterstützt Minderheiten im Kampf gegen Rassismus."
+        },
+        {
+          "english_word": "neither",
+          "german_word": "keine/-r/-s (von beiden)",
+          "english_example": "Both my parents have e-bikes, but neither of them cycles anywhere.",
+          "german_example": "Beide meine Eltern haben E-Bikes, aber keiner von beiden fährt irgendwohin Rad."
+        },
+        {
+          "english_word": "native speaker",
+          "german_word": "Muttersprachler/-in",
+          "english_example": "My friend is German but grew up in England. She's a native speaker of German and English.",
+          "german_example": "Meine Freundin ist Deutsche, ist aber in England aufgewachsen. Sie ist Muttersprachlerin in Deutsch und Englisch."
+        },
+        {
+          "english_word": "to tend to",
+          "german_word": "neigen zu; tendieren zu",
+          "english_example": "People tend to think that their way of doing something is the right one.",
+          "german_example": "Menschen neigen dazu zu glauben, dass ihre Art, etwas zu tun, die richtige ist."
+        },
+        {
+          "english_word": "to assume",
+          "german_word": "annehmen",
+          "english_example": "You can't assume everybody shares your likes and dislikes.",
+          "german_example": "Man kann nicht davon ausgehen, dass jeder deine Vorlieben und Abneigungen teilt."
+        },
+        {
+          "english_word": "opportunity",
+          "german_word": "Chance; Gelegenheit; Möglichkeit",
+          "english_example": "Don't miss the opportunity to do a balloon flight. It's fantastic!",
+          "german_example": "Verpasse nicht die Gelegenheit, eine Ballonfahrt zu machen. Es ist fantastisch!"
+        },
+        {
+          "english_word": "lack of",
+          "german_word": "Mangel an; Fehlen von",
+          "english_example": "He was often criticised for his lack of politeness.",
+          "german_example": "Er wurde oft wegen seines Mangels an Höflichkeit kritisiert."
+        },
+        {
+          "english_word": "to regard",
+          "german_word": "betrachten",
+          "english_example": "Before we decide what to do, we should regard the results of the survey.",
+          "german_example": "Bevor wir entscheiden, was zu tun ist, sollten wir die Ergebnisse der Umfrage betrachten."
+        }
+      ]
+    },
+    {
+      "id": "ac1_civil_rights",
+      "name": "AC1: Civil rights",
+      "cards": [
+        {
+          "english_word": "multi-ethnic",
+          "german_word": "Vielvölker-",
+          "english_example": "In a multi-ethnic society, different ethnic groups live together.",
+          "german_example": "In einer multiethnischen Gesellschaft leben verschiedene ethnische Gruppen zusammen."
+        },
+        {
+          "english_word": "society",
+          "german_word": "Gesellschaft",
+          "english_example": "Every society has rules of living together.",
+          "german_example": "Jede Gesellschaft hat Regeln für das Zusammenleben."
+        },
+        {
+          "english_word": "segregation",
+          "german_word": "Rassentrennung",
+          "english_example": "In the US, the time of segregation was a time when white people and black people lived apart from each other. They didn't have the same rights and weren't allowed to mix.",
+          "german_example": "In den USA war die Zeit der Segregation eine Zeit, in der weiße und schwarze Menschen getrennt voneinander lebten. Sie hatten nicht die gleichen Rechte und durften sich nicht vermischen."
+        },
+        {
+          "english_word": "apartheid",
+          "german_word": "ehemalige Rassentrennungspolitik in Südafrika",
+          "english_example": "In South Africa, apartheid was a policy of segregation.",
+          "german_example": "In Südafrika war die Apartheid eine Politik der Rassentrennung."
+        },
+        {
+          "english_word": "race",
+          "german_word": "Volksgruppe, Rasse (in Bezug auf Menschen im Deutschen nicht zu verwenden)",
+          "english_example": "Be careful with this word! It's a problematic term that is still in use to divide people into groups. You can use it in historical contexts, but you shouldn't refer to someone's race directly when you speak with or about them.",
+          "german_example": "Sei vorsichtig mit diesem Wort! Es ist ein problematischer Begriff, der immer noch verwendet wird, um Menschen in Gruppen einzuteilen. Man kann ihn in historischen Kontexten verwenden, aber man sollte sich nicht direkt auf die Rasse von jemandem beziehen, wenn man mit oder über ihn spricht."
+        },
+        {
+          "english_word": "racism",
+          "german_word": "Rassismus",
+          "english_example": "Racism means the discrimination of people because of their ethnic background (or race).",
+          "german_example": "Rassismus bedeutet die Diskriminierung von Menschen aufgrund ihres ethnischen Hintergrunds (oder ihrer Rasse)."
+        },
+        {
+          "english_word": "discrimination, to discriminate (against)",
+          "german_word": "Diskriminierung, diskriminieren",
+          "english_example": "When you use the verb, to discriminate is neutral, but to discriminate against means to treat someone worse than other people.",
+          "german_example": "Wenn man das Verb verwendet, ist „to discriminate“ neutral, aber „to discriminate against“ bedeutet, jemanden schlechter als andere Menschen zu behandeln."
+        },
+        {
+          "english_word": "harassment",
+          "german_word": "Belästigung, Schikane",
+          "english_example": "Harassment is a word used for actions that discriminate against other groups of people (e.g. for racist or sexist reasons).",
+          "german_example": "Belästigung ist ein Wort, das für Handlungen verwendet wird, die andere Gruppen von Menschen diskriminieren (z. B. aus rassistischen oder sexistischen Gründen)."
+        },
+        {
+          "english_word": "oppression",
+          "german_word": "Unterdrückung",
+          "english_example": "The oppression of certain groups of people means systematically denying them their rights.",
+          "german_example": "Die Unterdrückung bestimmter Gruppen von Menschen bedeutet, ihnen systematisch ihre Rechte zu verweigern."
+        },
+        {
+          "english_word": "religious groups: Hindu, Buddhist, Muslim, Christian, jewish",
+          "german_word": "religiöse Gruppen: hinduistisch, buddhistisch, muslimisch, christlich, jüdisch",
+          "english_example": "In a multi-ethnic society, people practise different religions.",
+          "german_example": "In einer multiethnischen Gesellschaft praktizieren die Menschen verschiedene Religionen."
+        },
+        {
+          "english_word": "democratic, democracy",
+          "german_word": "demokratisch, Demokratie",
+          "english_example": "In a democracy, the government is elected by the people.",
+          "german_example": "In einer Demokratie wird die Regierung vom Volk gewählt."
+        },
+        {
+          "english_word": "majority ↔ minority",
+          "german_word": "Mehrheit ↔ Minderheit",
+          "english_example": "In a democratic society, the majority of the people should decide on its rules, but minorities should be protected as well.",
+          "german_example": "In einer demokratischen Gesellschaft sollte die Mehrheit der Menschen über deren Regeln entscheiden, aber Minderheiten sollten ebenfalls geschützt werden."
+        },
+        {
+          "english_word": "equal opportunites",
+          "german_word": "gleiche Chancen, Chancengleichheit",
+          "english_example": "In a democratic society, everyone should have the same rights and equal opportunities.",
+          "german_example": "In einer demokratischen Gesellschaft sollte jeder die gleichen Rechte und gleiche Chancen haben."
+        },
+        {
+          "english_word": "civil rights",
+          "german_word": "Bürgerrechte",
+          "english_example": "Civil rights are supposed to make sure that all the people in a state are treated equally.",
+          "german_example": "Bürgerrechte sollen sicherstellen, dass alle Menschen in einem Staat gleich behandelt werden."
+        }
+      ]
+    }
+  ]
+}

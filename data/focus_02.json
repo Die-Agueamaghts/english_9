@@ -1,0 +1,208 @@
+{
+  "categories": [
+    {
+      "id": "focus_2",
+      "name": "F2: School days",
+      "cards": [
+        {
+          "english_word": "*to teach somebody a lesson",
+          "german_word": "jmdm. eine Lehre / Lektion erteilen",
+          "english_example": "That wasn't a nice thing to do. Let's teach him a lesson.",
+          "german_example": "Das war keine nette Aktion. Lasst uns ihm eine Lektion erteilen."
+        },
+        {
+          "english_word": "to attend a lesson / a course / school / college / university",
+          "german_word": "eine Unterrichtsstunde / einen Kurs / die Schule / das College / die Universität besuchen",
+          "english_example": "Students are required to attend all lessons.",
+          "german_example": "Von den Schülern wird erwartet, dass sie alle Unterrichtsstunden besuchen."
+        },
+        {
+          "english_word": "to take / to pass / to fail a test / an exam / a GCSE / a degree",
+          "german_word": "einen Test / eine Prüfung / einen Abschluss machen / bestehen / nicht bestehen",
+          "english_example": "She was nervous before taking the exam.",
+          "german_example": "Sie war nervös, bevor sie die Prüfung ablegte."
+        },
+        {
+          "english_word": "to graduate from high school / college / university / in Biology / English literature ...",
+          "german_word": "einen (Hoch-)Schulabschluss machen / den/einen Abschluss machen (in)",
+          "english_example": "He graduated from university with honors.",
+          "german_example": "Er machte seinen Universitätsabschluss mit Auszeichnung."
+        },
+        {
+          "english_word": "to have / to hold / to get / to receive a degree in Biology / English literature ...",
+          "german_word": "einen Abschluss in Biologie / englischer Literatur ... haben / besitzen / bekommen / erhalten",
+          "english_example": "She holds a degree in English literature.",
+          "german_example": "Sie hat einen Abschluss in englischer Literatur."
+        },
+        {
+          "english_word": "a(n) boring / difficult / exhausting / fulfilling / interesting / meaningful / motivating task",
+          "german_word": "eine langweilige / schwierige / anstrengende / erfüllende / interessante / bedeutsame / motivierende Aufgabe",
+          "english_example": "Completing the research was an exhausting task.",
+          "german_example": "Die Recherche abzuschließen war eine anstrengende Aufgabe."
+        },
+        {
+          "english_word": "a motivated / passionate / qualified teacher",
+          "german_word": "ein motivierter / leidenschaftlicher / qualifizierter, kompetenter Lehrer",
+          "english_example": "The school is looking for a qualified teacher.",
+          "german_example": "Die Schule sucht nach einem qualifizierten Lehrer."
+        },
+        {
+          "english_word": "a(n) focused / hard-working / interested / responsible student",
+          "german_word": "ein fokussierter / fleißiger / interessierter / verantwortungsbewusster Schüler",
+          "english_example": "She is a very hard-working student.",
+          "german_example": "Sie ist eine sehr fleißige Schülerin."
+        },
+        {
+          "english_word": "to study / work hard / patiently, to learn by heart",
+          "german_word": "hart / geduldig lernen / arbeiten, auswendig lernen",
+          "english_example": "We had to learn the entire poem by heart.",
+          "german_example": "Wir mussten das ganze Gedicht auswendig lernen."
+        },
+        {
+          "english_word": "practical / specific / theoretical / useful qualifications / skills",
+          "german_word": "praktische / spezifische / theoretische / nützliche Qualifikationen / Fertigkeiten",
+          "english_example": "The job requires practical skills.",
+          "german_example": "Der Beruf erfordert praktische Fähigkeiten."
+        },
+        {
+          "english_word": "secondary school",
+          "german_word": "weiterführende Schule",
+          "english_example": "A German 'Gymnasium' is a secondary school.",
+          "german_example": "Ein deutsches Gymnasium ist eine weiterführende Schule."
+        },
+        {
+          "english_word": "compulsory",
+          "german_word": "verpflichtend; obligatorisch; vorgeschrieben",
+          "english_example": "German, Maths and English are compulsory subjects in German schools.",
+          "german_example": "Deutsch, Mathe und Englisch sind Pflichtfächer an deutschen Schulen."
+        },
+        {
+          "english_word": "whereas",
+          "german_word": "während; wohingegen",
+          "english_example": "Uncle Jake is in the green party whereas the rest of my family are conservatives.",
+          "german_example": "Onkel Jake ist in der grünen Partei, während der Rest meiner Familie konservativ ist."
+        },
+        {
+          "english_word": "nursery school",
+          "german_word": "Vorschule; Kindergarten",
+          "english_example": "In Germany children usually start nursery school at the age of three.",
+          "german_example": "In Deutschland kommen Kinder gewöhnlich im Alter von drei Jahren in den Kindergarten."
+        },
+        {
+          "english_word": "elementary school (AE)",
+          "german_word": "Grundschule",
+          "english_example": "elementary school = the first school American children go to / elementary school (AE) = primary school (BE)",
+          "german_example": "elementary school = die erste Schule, auf die amerikanische Kinder gehen"
+        },
+        {
+          "english_word": "form",
+          "german_word": "Klasse; Jahrgangsstufe",
+          "english_example": "My brother and I go to the same school, but I'm in sixth form and he's in fourth form. form (BE) = grade (AE)",
+          "german_example": "Mein Bruder und ich gehen auf dieselbe Schule, aber ich bin in der sechsten Klasse (Oberstufe) und er ist in der vierten Klasse."
+        },
+        {
+          "english_word": "to gain",
+          "german_word": "gewinnen; bekommen",
+          "english_example": "The police tried to gain control of the situation.",
+          "german_example": "Die Polizei versuchte, die Kontrolle über die Situation zu gewinnen."
+        },
+        {
+          "english_word": "diploma",
+          "german_word": "Diplom; Urkunde",
+          "english_example": "If you pass exams, you usually get a diploma.",
+          "german_example": "Wenn man Prüfungen besteht, bekommt man normalerweise eine Urkunde."
+        },
+		{
+          "english_word": "vocational school",
+          "german_word": "Berufsschule",
+          "english_example": "After secondary school you can either go to university or to a vocational school.",
+          "german_example": "Nach der weiterführenden Schule kann man entweder an die Universität oder an eine Berufsschule gehen."
+        },
+        {
+          "english_word": "boarding school",
+          "german_word": "Internat",
+          "english_example": "At a boarding school, you eat and sleep at school. You only go home for the weekend or the holidays.",
+          "german_example": "An einem Internat isst und schläft man in der Schule. Man geht nur am Wochenende oder in den Ferien nach Hause."
+        },
+        {
+          "english_word": "assembly",
+          "german_word": "Morgenappell",
+          "english_example": "At British and American schools all the students meet at assembly before the first lesson.",
+          "german_example": "An britischen und amerikanischen Schulen treffen sich alle Schüler vor der ersten Stunde zum Morgenappell."
+        },
+        {
+          "english_word": "mark (BE)",
+          "german_word": "Note",
+          "english_example": "What was your worst mark in English?",
+          "german_example": "Was war deine schlechteste Note in Englisch?"
+        },
+        {
+          "english_word": "coeducation (no pl)",
+          "german_word": "Koedukation (gemeinsames Lehren von Jungen und Mädchen)",
+          "english_example": "There are schools that don't have coeducation. They only teach boys or girls, not both.",
+          "german_example": "Es gibt Schulen, die keine Koedukation haben. Sie unterrichten nur Jungen oder Mädchen, nicht beide."
+        },
+        {
+          "english_word": "groan",
+          "german_word": "Stöhnen",
+          "english_example": "groan = a 'slow' sound that shows you are hurt, unhappy or disappointed",
+          "german_example": "Stöhnen = ein „langsamer“ Laut, der zeigt, dass man verletzt, unglücklich oder enttäuscht ist"
+        },
+        {
+          "english_word": "to turn",
+          "german_word": "werden",
+          "english_example": "My brother will turn 18 next week, so we are going to have a big party at home.",
+          "german_example": "Mein Bruder wird nächste Woche 18, also werden wir eine große Party zu Hause feiern."
+        },
+        {
+          "english_word": "pleased",
+          "german_word": "erfreut; zufrieden",
+          "english_example": "She was pleased to hear that her letter had arrived.",
+          "german_example": "Sie war erfreut zu hören, dass ihr Brief angekommen war."
+        },
+        {
+          "english_word": "catastrophe",
+          "german_word": "Katastrophe",
+          "english_example": "Every time I read the newspaper, it seems to be full of articles about catastrophes.",
+          "german_example": "Jedes Mal, wenn ich die Zeitung lese, scheint sie voller Artikel über Katastrophen zu sein."
+        },
+        {
+          "english_word": "meanwhile",
+          "german_word": "unterdessen; inzwischen",
+          "english_example": "meanwhile = at the same time",
+          "german_example": "meanwhile = zur gleichen Zeit"
+        },
+        {
+          "english_word": "weekly",
+          "german_word": "wöchentlich",
+          "english_example": "Do you clean your room daily, weekly or monthly?",
+          "german_example": "Putzt du dein Zimmer täglich, wöchentlich oder monatlich?"
+        },
+        {
+          "english_word": "to poison",
+          "german_word": "vergiften",
+          "english_example": "The police say that more women than men kill by poisoning.",
+          "german_example": "Die Polizei sagt, dass mehr Frauen als Männer durch Vergiftung töten."
+        },
+        {
+          "english_word": "to mill around",
+          "german_word": "umherlaufen",
+          "english_example": "At the festival a big crowd was milling around the food stalls.",
+          "german_example": "Auf dem Festival lief eine große Menschenmenge um die Essensstände herum."
+        },
+        {
+          "english_word": "on tiptoe",
+          "german_word": "auf Zehenspitzen",
+          "english_example": "Shhh, you must walk on tiptoe. We mustn't make any noise!",
+          "german_example": "Pst, du musst auf Zehenspitzen gehen. Wir dürfen keinen Lärm machen!"
+        },
+        {
+          "english_word": "aloud",
+          "german_word": "laut",
+          "english_example": "Some people only sing aloud in the shower.",
+          "german_example": "Manche Menschen singen nur in der Dusche laut."
+        }
+      ]
+    }
+  ]
+}

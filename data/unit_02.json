@@ -1,0 +1,1228 @@
+{
+  "categories": [
+    {
+      "id": "u2_check_in",
+      "name": "Check-in: (Never) enough!",
+      "cards": [
+        {
+          "english_word": "sustainability",
+          "german_word": "Nachhaltigkeit",
+          "english_example": "Sustainability depends on three aspects (social, environmental, economic), but evaluation is difficult, especially over a long time in a global context.",
+          "german_example": "Nachhaltigkeit hängt von drei Aspekten ab (sozial, ökologisch, wirtschaftlich), aber die Bewertung ist schwierig, insbesondere über einen langen Zeitraum im globalen Kontext."
+        },
+        {
+          "english_word": "debate",
+          "german_word": "Debatte",
+          "english_example": "debate = a formal discussion about the pros and cons of sth",
+          "german_example": "debate = eine formelle Diskussion über das Für und Wider von etwas"
+        },
+        {
+          "english_word": "to consume",
+          "german_word": "konsumieren; verbrauchen",
+          "english_example": "1. For more sustainability we need to consume less. 2. My old washing machine consumes too much energy.",
+          "german_example": "1. Für mehr Nachhaltigkeit müssen wir weniger konsumieren. 2. Meine alte Waschmaschine verbraucht zu viel Energie."
+        },
+        {
+          "english_word": "consumption",
+          "german_word": "Konsum; Verbrauch",
+          "english_example": "The consumption of energy is too high.",
+          "german_example": "Der Energieverbrauch ist zu hoch."
+        },
+        {
+          "english_word": "to exploit sb/sth",
+          "german_word": "jmdn./etw. ausbeuten; jmdn./etw. ausnutzen",
+          "english_example": "She has never fully exploited her talents.",
+          "german_example": "Sie hat ihre Talente nie voll ausgenutzt."
+        },
+        {
+          "english_word": "waste",
+          "german_word": "Abfall; Müll",
+          "english_example": "We should try not to produce too much waste.",
+          "german_example": "Wir sollten versuchen, nicht zu viel Müll zu produzieren."
+        },
+        {
+          "english_word": "to contaminate",
+          "german_word": "kontaminieren; verseuchen",
+          "english_example": "Industrial pollution can contaminate rivers and make their water undrinkable.",
+          "german_example": "Industrielle Verschmutzung kann Flüsse kontaminieren und ihr Wasser untrinkbar machen."
+        },
+        {
+          "english_word": "conservation",
+          "german_word": "Schutz; Erhaltung",
+          "english_example": "The conservation of nature is our most important task.",
+          "german_example": "Der Naturschutz ist unsere wichtigste Aufgabe."
+        },
+        {
+          "english_word": "ecology",
+          "german_word": "Ökologie",
+          "english_example": "There's a strong ecology movement in our town.",
+          "german_example": "In unserer Stadt gibt es eine starke Ökologiebewegung."
+        },
+        {
+          "english_word": "carbon",
+          "german_word": "Kohlenstoff; Kohlenstoffdioxid",
+          "english_example": "If you want to travel by plane, you have to pay a carbon tax.",
+          "german_example": "Wenn man mit dem Flugzeug reisen möchte, muss man eine CO2-Steuer bezahlen."
+        },
+        {
+          "english_word": "footprint",
+          "german_word": "Fußabdruck",
+          "english_example": "My carbon footprint is big because I often travel by plane.",
+          "german_example": "Mein CO2-Fußabdruck ist groß, weil ich oft mit dem Flugzeug reise."
+        },
+        {
+          "english_word": "fossil fuel",
+          "german_word": "fossiler Brennstoff",
+          "english_example": "Typical fossil fuels are coal, mineral oil and natural gas.",
+          "german_example": "Typische fossile Brennstoffe sind Kohle, Erdöl und Erdgas."
+        },
+        {
+          "english_word": "global warming",
+          "german_word": "globale Erwärmung",
+          "english_example": "If we want to stop global warming, everyone must change their behaviour.",
+          "german_example": "Wenn wir die globale Erwärmung stoppen wollen, muss jeder sein Verhalten ändern."
+        },
+        {
+          "english_word": "erosion",
+          "german_word": "Erosion; Abtragung",
+          "english_example": "Coastal erosion is caused by rising sea levels. It means that land is washed into the water.",
+          "german_example": "Küstenerosion wird durch den steigenden Meeresspiegel verursacht. Es bedeutet, dass Land in das Wasser gespült wird."
+        },
+        {
+          "english_word": "activism",
+          "german_word": "Aktivismus",
+          "english_example": "Greta Thunberg stands for environmental activism.",
+          "german_example": "Greta Thunberg steht für Umweltaktivismus."
+        },
+        {
+          "english_word": "cause",
+          "german_word": "Grund; Ursache; Sache",
+          "english_example": "1. What's the cause of your injury? - I had a bike accident. 2. We're fighting for a good cause: animal rights.",
+          "german_example": "1. Was ist die Ursache für deine Verletzung? – Ich hatte einen Fahrradunfall. 2. Wir kämpfen für eine gute Sache: Tierrechte."
+        },
+        {
+          "english_word": "party",
+          "german_word": "Partei",
+          "english_example": "In Germany, there are various political parties, e.g. the Social Democratic Party of Germany.",
+          "german_example": "In Deutschland gibt es verschiedene politische Parteien, z.B. die Sozialdemokratische Partei Deutschlands."
+        },
+        {
+          "english_word": "NGO (non-governmental organisation)",
+          "german_word": "Nichtregierungsorganisation",
+          "english_example": "Greenpeace is an NGO.",
+          "german_example": "Greenpeace is eine NGO."
+        },
+        {
+          "english_word": "environmental",
+          "german_word": "Umwelt-; die Umwelt betreffend; umweltbedingt",
+          "english_example": "Global warming causes environmental changes.",
+          "german_example": "Die globale Erwärmung führt zu Umweltveränderungen."
+        },
+        {
+          "english_word": "strike",
+          "german_word": "Streik",
+          "english_example": "The city's bus drivers have been on strike for three weeks.",
+          "german_example": "Die Busfahrer der Stadt streiken seit drei Wochen."
+        },
+        {
+          "english_word": "frequent",
+          "german_word": "häufig",
+          "english_example": "FAQs are frequently-asked questions.",
+          "german_example": "FAQs sind häufig gestellte Fragen."
+        },
+        {
+          "english_word": "petition",
+          "german_word": "Petition; Gesuch; Unterschriftenliste",
+          "english_example": "Most students signed the petition for a new gym.",
+          "german_example": "Die meisten Schüler unterschrieben die Unterschriftenliste für eine neue Turnhalle."
+        }
+      ]
+    },
+    {
+      "id": "u2_station_1",
+      "name": "Station 1: Life cycle of a T-shirt",
+      "cards": [
+        {
+          "english_word": "study",
+          "german_word": "Studie; Untersuchung",
+          "english_example": "The study showed that on average women still earn less than men.",
+          "german_example": "Die Studie zeigte, dass Frauen im Durchschnitt immer noch weniger verdienen als Männer."
+        },
+        {
+          "english_word": "ecological",
+          "german_word": "ökologisch",
+          "english_example": "Climate change causes many ecological problems.",
+          "german_example": "Der Klimawandel verursacht viele ökologische Probleme."
+        },
+        {
+          "english_word": "raw",
+          "german_word": "roh; Roh-; unbehandelt",
+          "english_example": "You can't eat this meat. It's still raw.",
+          "german_example": "Du kannst dieses Fleisch nicht essen. Es ist noch roh."
+        },
+        {
+          "english_word": "disposal",
+          "german_word": "Beseitigung; Entsorgung",
+          "english_example": "The disposal of clothes has a considerable effect on their ecological footprint.",
+          "german_example": "Die Entsorgung von Kleidung hat erhebliche Auswirkungen auf ihren ökologischen Fußabdruck."
+        },
+        {
+          "english_word": "liter (l) (AE)",
+          "german_word": "Liter",
+          "english_example": "You need 2,000 liters of water to produce one T-shirt.",
+          "german_example": "Man braucht 2.000 Liter Wasser, um ein T-Shirt herzustellen."
+        },
+        {
+          "english_word": "ton",
+          "german_word": "Tonne",
+          "english_example": "We produce tons of rubbish every day.",
+          "german_example": "Wir produzieren jeden Tag Tonnen von Müll."
+        },
+        {
+          "english_word": "organic",
+          "german_word": "biologisch (angebaut)",
+          "english_example": "More and more people are buying organic food.",
+          "german_example": "Immer mehr Menschen kaufen biologisch ausgebaute Lebensmittel."
+        },
+        {
+          "english_word": "to harvest",
+          "german_word": "ernten",
+          "english_example": "We harvest vegetables from our garden.",
+          "german_example": "Wir ernten Gemüse aus unserem Garten."
+        },
+        {
+          "english_word": "*to spin",
+          "german_word": "spinnen; (sich) schnell drehen",
+          "english_example": "If you spin me around any longer, I will feel ill.",
+          "german_example": "Wenn du mich noch länger im Kreis drehst, wird mir schlecht."
+        },
+        {
+          "english_word": "fabric (no pl)",
+          "german_word": "Stoff",
+          "english_example": "The fabric made of cotton is grayish at the beginning.",
+          "german_example": "Der aus Baumwolle hergestellte Stoff ist zu Beginn weißgrau."
+        },
+        {
+          "english_word": "to bleach",
+          "german_word": "bleichen",
+          "english_example": "to bleach fabric / teeth / hair",
+          "german_example": "Stoff / Zähne / Haare bleichen"
+        },
+        {
+          "english_word": "to dye",
+          "german_word": "färben",
+          "english_example": "She has dyed her hair red.",
+          "german_example": "Sie hat ihre Haare rot gefärbt."
+        },
+        {
+          "english_word": "to pollute",
+          "german_word": "verschmutzen; verunreinigen",
+          "english_example": "Dyeing and bleaching fabric can pollute the groundwater.",
+          "german_example": "Das Färben und Bleichen von Stoffen kann das Grundwasser verunreinigen."
+        },
+        {
+          "english_word": "to harm",
+          "german_word": "Schaden anrichten; beschädigen",
+          "english_example": "Polluted groundwater harms the environment.",
+          "german_example": "Verschmutztes Grundwasser schädigt die Umwelt."
+        },
+        {
+          "english_word": "factory",
+          "german_word": "Fabrik; Werk",
+          "english_example": "Cars, washing machines and cookers are all made in factories.",
+          "german_example": "Autos, Waschmaschinen und Herde werden alle in Fabriken hergestellt."
+        },
+        {
+          "english_word": "*to sew",
+          "german_word": "nähen",
+          "english_example": "Our clothes are often sewed in Bangladesh or India. ! 'Sew' doesn't rhyme with 'few'.",
+          "german_example": "Unsere Kleidung wird oft in Bangladesch oder Indien genäht."
+        },
+        {
+          "english_word": "warehouse",
+          "german_word": "Lager; Lagerhalle; Depot",
+          "english_example": "After their production goods are kept in warehouses.",
+          "german_example": "Nach ihrer Herstellung werden die Waren in Lagerhallen aufbewahrt."
+        },
+        {
+          "english_word": "to emit",
+          "german_word": "ausstoßen; absondern",
+          "english_example": "Millions of tons of CO2 are emitted every year.",
+          "german_example": "Millionen Tonnen CO2 werden jedes Jahr ausgestoßen."
+        },
+        {
+          "english_word": "impact",
+          "german_word": "Auswirkung; Einfluss",
+          "english_example": "My middle school teacher had a great impact on me. I studied biology because of him. ! usually singular",
+          "german_example": "Mein Mittelschullehrer hatte einen großen Einfluss auf mich. Wegen ihm habe ich Biologie studiert."
+        },
+        {
+          "english_word": "thus",
+          "german_word": "dadurch; deshalb",
+          "english_example": "thus = that's why",
+          "german_example": "thus = deshalb / darum"
+        },
+        {
+          "english_word": "to estimate",
+          "german_word": "schätzen",
+          "english_example": "I estimate her stay in hospital to take a week.",
+          "german_example": "Ich schätze, dass ihr Krankenhausaufenthalt eine Woche dauern wird."
+        },
+        {
+          "english_word": "landfill",
+          "german_word": "Deponie",
+          "english_example": "landfill = a place where trash is taken, often outside towns",
+          "german_example": "landfill = ein Ort, an den Müll gebracht wird, oft außerhalb von Städten"
+        },
+        {
+          "english_word": "emission",
+          "german_word": "Ausstoß; Emission",
+          "english_example": "The emissions from cars are often higher than estimated.",
+          "german_example": "Die Emissionen von Autos sind oft höher als geschätzt."
+        },
+        {
+          "english_word": "process",
+          "german_word": "Prozess; Verlauf",
+          "english_example": "In the process of being burnt, some clothes release toxic emissions. ! Be careful with the stress.",
+          "german_example": "Beim Verbrennen setzen einige Kleidungsstücke giftige Emissionen frei."
+        },
+        {
+          "english_word": "in",
+          "german_word": "aus; jede/-r/-s (zweite / dritte ...); von",
+          "english_example": "Only about one in eight pairs of shoes is recycled after use.",
+          "german_example": "Nur etwa jedes achte Paar Schuhe wird nach dem Gebrauch recycelt."
+        },
+        {
+          "english_word": "item",
+          "german_word": "Gegenstand; Objekt",
+          "english_example": "We'll get a few cents for every clothing item we donate.",
+          "german_example": "Wir bekommen ein paar Cent für jedes Kleidungsstück, das wir spenden."
+        },
+        {
+          "english_word": "packaging",
+          "german_word": "Verpackung; Verpackungsmaterial",
+          "english_example": "The packaging of goods creates a huge amount of waste.",
+          "german_example": "Die Verpackung von Waren verursacht eine riesige Menge Müll."
+        },
+        {
+          "english_word": "sustainable",
+          "german_word": "nachhaltig",
+          "english_example": "We must use more sustainable energy.",
+          "german_example": "Wir müssen mehr nachhaltige Energie nutzen."
+        },
+        {
+          "english_word": "to be aware of sth",
+          "german_word": "sich etw. bewusst sein",
+          "english_example": "I'm aware of the dangers of driving too fast.",
+          "german_example": "Ich bin mir der Gefahren zu schnellen Fahrens bewusst."
+        },
+        {
+          "english_word": "to contribute to",
+          "german_word": "beitragen zu",
+          "english_example": "Our consumption habits contribute to bad working conditions in production countries.",
+          "german_example": "Unsere Konsumgewohnheiten tragen zu schlechten Arbeitsbedingungen in den Produktionsländern bei."
+        },
+        {
+          "english_word": "fashion",
+          "german_word": "Mode",
+          "english_example": "In fashion lessons you learn about clothes and style.",
+          "german_example": "Im Modeunterricht lernt man etwas über Kleidung und Stil."
+        },
+        {
+          "english_word": "*to make a difference (to sth)",
+          "german_word": "etw. verändern; etw. bewegen",
+          "english_example": "Voting can make a difference.",
+          "german_example": "Wählen zu gehen kann etwas verändern."
+        },
+        {
+          "english_word": "detergent",
+          "german_word": "Waschmittel; Reinigungsmittel",
+          "english_example": "There are special detergents for washing machines.",
+          "german_example": "Es gibt spezielle Waschmittel für Waschmaschinen."
+        },
+        {
+          "english_word": "critical",
+          "german_word": "kritisch; entscheidend",
+          "english_example": "This newspaper is critical of our government.",
+          "german_example": "Diese Zeitung steht unserer Regierung kritisch gegenüber."
+        },
+        {
+          "english_word": "to charge",
+          "german_word": "laden; aufladen",
+          "english_example": "My mobile needs to be charged.",
+          "german_example": "Mein Handy muss aufgeladen werden."
+        }
+      ]
+    },
+    {
+      "id": "u2_station_2",
+      "name": "Station 2: The coca controversy",
+      "cards": [
+        {
+          "english_word": "cocoa",
+          "german_word": "Kakao",
+          "english_example": "There would be no chocolate without cocoa.",
+          "german_example": "Ohne Kakao gäbe es keine Schokolade."
+        },
+        {
+          "english_word": "quantity",
+          "german_word": "Menge; Quantität",
+          "english_example": "Chocolate is sold in large quantities in Europe.",
+          "german_example": "Schokolade wird in Europa in großen Mengen verkauft."
+        },
+        {
+          "english_word": "cosmetics (pl)",
+          "german_word": "Kosmetik",
+          "english_example": "Cocoa butter is a main ingredient for many cosmetics. ! You can't use this noun in the singular.",
+          "german_example": "Kakaobutter ist ein Hauptbestandteil vieler Kosmetika."
+        },
+        {
+          "english_word": "plantation",
+          "german_word": "Plantage",
+          "english_example": "Bananas are grown in large plantations.",
+          "german_example": "Bananen werden auf großen Plantagen angebaut."
+        },
+        {
+          "english_word": "health care",
+          "german_word": "Gesundheitsversorgung",
+          "english_example": "I work in the health care industry. I'm a nurse. – Oh, me too!",
+          "german_example": "Ich arbeite in der Gesundheitsbranche. Ich bin Krankenschwester. – Oh, ich auch!"
+        },
+        {
+          "english_word": "hardly",
+          "german_word": "kaum",
+          "english_example": "I can hardly believe it!",
+          "german_example": "Ich kann es kaum glauben!"
+        },
+        {
+          "english_word": "exhausted",
+          "german_word": "erschöpft",
+          "english_example": "After running the marathon, they were exhausted.",
+          "german_example": "Nach dem Marathonlauf waren sie erschöpft."
+        },
+        {
+          "english_word": "childhood",
+          "german_word": "Kindheit",
+          "english_example": "I was a happy child. I had a very happy childhood.",
+          "german_example": "Ich war ein glückliches Kind. Ich hatte eine sehr glückliche Kindheit."
+        },
+        {
+          "english_word": "emotional",
+          "german_word": "emotional; Gefühls-",
+          "english_example": "It was an emotional moment when my boyfriend asked me to marry him.",
+          "german_example": "Es war ein emotionaler Moment, als mein Freund mich fragte, ob ich ihn heiraten möchte."
+        },
+        {
+          "english_word": "matter",
+          "german_word": "Angelegenheit; Frage",
+          "english_example": "For most of the people in the world eating healthy is a matter of accessibility.",
+          "german_example": "Für die meisten Menschen auf der Welt ist gesunde Ernährung eine Frage der Zugänglichkeit."
+        },
+        {
+          "english_word": "diet",
+          "german_word": "Ernährung; Diät",
+          "english_example": "1. His diet consists mainly of fruit and vegetables. 2. She has been on a diet, but she hasn't lost much weight yet.",
+          "german_example": "1. Seine Ernährung besteht hauptsächlich aus Obst und Gemüse. 2. Sie hat eine Diät gemacht, aber sie hat noch nicht viel Gewicht verloren."
+        },
+        {
+          "english_word": "conventional",
+          "german_word": "konventionell; herkömmlich; üblich",
+          "english_example": "Some people don't believe in conventional medicine.",
+          "german_example": "Einige Menschen glauben nicht an die Schulmedizin."
+        },
+        {
+          "english_word": "factor",
+          "german_word": "Faktor; Gesichtspunkt; Einfluss",
+          "english_example": "Money was not a factor in my decision.",
+          "german_example": "Geld war kein Faktor bei meiner Entscheidung."
+        },
+        {
+          "english_word": "overweight",
+          "german_word": "übergewichtig",
+          "english_example": "My dog is overweight: she needs more walks and less food.",
+          "german_example": "Mein Hund ist übergewichtig: Sie braucht mehr Auslauf und weniger Futter."
+        },
+        {
+          "english_word": "greenhouse gas",
+          "german_word": "Treibhausgas",
+          "english_example": "To stop climate change, we must try to reduce greenhouse gases.",
+          "german_example": "Um den Klimawandel zu stoppen, müssen wir versuchen, die Treibhausgase zu reduzieren."
+        },
+        {
+          "english_word": "factory farming",
+          "german_word": "Massentierhaltung",
+          "english_example": "Factory farming is a way of producing great numbers of animal products.",
+          "german_example": "Massentierhaltung ist eine Methode, um tierische Produkte in großer Zahl zu erzeugen."
+        },
+        {
+          "english_word": "to fail",
+          "german_word": "nicht bestehen",
+          "english_example": "I hope I haven't failed the test.",
+          "german_example": "Ich hoffe, ich habe den Test nicht verpatzt / nicht bestanden."
+        },
+        {
+          "english_word": "drug",
+          "german_word": "Droge",
+          "english_example": "Taking drugs can be very dangerous.",
+          "german_example": "Drogen zu nehmen kann sehr gefährlich sein."
+        },
+        {
+          "english_word": "to combine",
+          "german_word": "kombinieren; verbinden",
+          "english_example": "If you combine certain kinds of food, it doesn't taste good.",
+          "german_example": "Wenn man bestimmte Arten von Lebensmitteln kombiniert, schmeckt es nicht gut."
+        },
+        {
+          "english_word": "to address",
+          "german_word": "ansprechen; sich wenden an",
+          "english_example": "I'm sorry I didn't listen. Were you addressing me?",
+          "german_example": "Es tut mir leid, ich habe nicht zugehört. Hast du mich angesprochen?"
+        },
+        {
+          "english_word": "natural food ↔ fast food, processed food",
+          "german_word": "natürliche, unverarbeitete Lebensmittel ↔ industriell verarbeitete Lebensmittel",
+          "english_example": "Natural food is healthier than processed food, but processed food is more convenient.",
+          "german_example": "Natürliche Lebensmittel sind gesünder als verarbeitete Lebensmittel, aber verarbeitete Lebensmittel sind praktischer."
+        },
+        {
+          "english_word": "convenient",
+          "german_word": "bequem; zweckmäßig",
+          "english_example": "Natural food is healthier than processed food, but processed food is more convenient.",
+          "german_example": "Natürliche Lebensmittel sind gesünder als verarbeitete Lebensmittel, aber verarbeitete Lebensmittel sind praktischer."
+        },
+        {
+          "english_word": "staple food",
+          "german_word": "Grundnahrungsmittel",
+          "english_example": "Rice is the staple food in most Asian countries.",
+          "german_example": "Reis ist das Grundnahrungsmittel in den meisten asiatischen Ländern."
+        },
+        {
+          "english_word": "meat, fish, dairy products, vegetables, fruit, pulses, nuts, snacks, sweets",
+          "german_word": "Fleisch, Fisch, Molkereiprodukte, Gemüse, Obst, Hülsenfrüchte, Nüsse, Snacks, Süßigkeiten",
+          "english_example": "If you don't eat food from animals, you should eat pulses and nuts.",
+          "german_example": "Wenn man keine tierischen Lebensmittel isst, sollte man Hülsenfrüchte und Nüsse essen."
+        },
+        {
+          "english_word": "allergy, allergic, intolerance",
+          "german_word": "Allergie, allergisch, Unverträglichkeit",
+          "english_example": "Some people have allergies or are intolerant of / to certain foods. So they avoid them.",
+          "german_example": "Einige Menschen haben Allergien oder vertragen bestimmte Lebensmittel nicht. Deshalb meiden sie sie."
+        },
+        {
+          "english_word": "a balanced / healthy / vegetarian / vegan diet",
+          "german_word": "ausgewogene / gesunde / vegetarische / vegane Ernährung",
+          "english_example": "Your diet is what you eat. But if you're on a diet, it means you eat less in order to lose weight.",
+          "german_example": "Deine Ernährung ist das, was du isst. Aber wenn du eine Diät machst, bedeutet das, dass du weniger isst, um Gewicht zu verlieren."
+        },
+        {
+          "english_word": "delicious / yummy / tasty food",
+          "german_word": "köstlich, lecker, schmackhaft",
+          "english_example": "To my taste, this is delicious. It tastes extremely good.",
+          "german_example": "Für meinen Geschmack ist das köstlich. Es schmeckt extrem gut."
+        }
+      ]
+    },
+    {
+      "id": "u2_station_3",
+      "name": "Station 3: Should streaming be reduced?",
+      "cards": [
+        {
+          "english_word": "convenient",
+          "german_word": "bequem; zweckmäßig; passend; angenehm",
+          "english_example": "How convenient that you've already done the shopping!",
+          "german_example": "Wie praktisch, dass du den Einkauf schon erledigt hast!"
+        },
+        {
+          "english_word": "convenience",
+          "german_word": "Komfort; Vorteil",
+          "english_example": "This flat has all modern conveniences.",
+          "german_example": "Diese Wohnung bietet allen modernen Komfort."
+        },
+        {
+          "english_word": "to state",
+          "german_word": "feststellen; aussagen; darstellen",
+          "english_example": "The statistics state that the economy is booming.",
+          "german_example": "Die Statistik besagt, dass die Wirtschaft boomt."
+        },
+        {
+          "english_word": "nevertheless",
+          "german_word": "trotzdem; dennoch; nichtsdestoweniger",
+          "english_example": "He wasn't fit at all. Nevertheless, he took part in a marathon.",
+          "german_example": "Er war überhaupt nicht fit. Trotzdem nahm er an einem Marathon teil."
+        },
+        {
+          "english_word": "to be concerned about sth",
+          "german_word": "besorgt sein um etw.; sich um etw. Sorgen machen",
+          "english_example": "Many parents are concerned about the violent computer games their children play.",
+          "german_example": "Viele Eltern sind wegen der gewalttätigen Computerspiele besorgt, die ihre Kinder spielen."
+        },
+        {
+          "english_word": "broad",
+          "german_word": "breit",
+          "english_example": "The river was broad with lots of water in it.",
+          "german_example": "Der Fluss war breit und führte viel Wasser."
+        },
+        {
+          "english_word": "equal",
+          "german_word": "gleich; gleichwertig",
+          "english_example": "Do you think all Americans are equal?",
+          "german_example": "Glaubst du, dass alle Amerikaner gleichgestellt sind?"
+        },
+        {
+          "english_word": "device",
+          "german_word": "Gerät; Vorrichtung",
+          "english_example": "A smartphone is an electronic device.",
+          "german_example": "Ein Smartphone ist ein elektronisches Gerät."
+        },
+        {
+          "english_word": "method",
+          "german_word": "Methode",
+          "english_example": "method = a way of doing sth",
+          "german_example": "method = eine Art, etwas zu tun"
+        },
+        {
+          "english_word": "efficient",
+          "german_word": "effizient; leistungsfähig",
+          "english_example": "We need a new dishwasher, one that is more energy-efficient.",
+          "german_example": "Wir brauchen einen neuen Geschirrspüler, einen, der energieeffizienter ist."
+        },
+        {
+          "english_word": "claim",
+          "german_word": "Behauptung; Anspruch",
+          "english_example": "He made claims about having been attacked.",
+          "german_example": "Er stellte Behauptungen auf, angegriffen worden zu sein."
+        },
+        {
+          "english_word": "to predict",
+          "german_word": "vorhersagen; voraussagen",
+          "english_example": "It is hardly possible to predict the future.",
+          "german_example": "Es ist kaum möglich, die Zukunft vorherzusagen."
+        },
+        {
+          "english_word": "to encourage",
+          "german_word": "unterstützen; ermutigen",
+          "english_example": "My dad encouraged me to apply for this job.",
+          "german_example": "Mein Vater hat mich ermutigt, mich für diesen Job zu bewerben."
+        },
+        {
+          "english_word": "eventually",
+          "german_word": "schließlich; endlich; irgendwann",
+          "english_example": "The new information eventually led the police to the criminal. ! False friend: dt. eventuell = maybe, perhaps",
+          "german_example": "Die neuen Informationen führten die Polizei schließlich zum Verbrecher."
+        },
+        {
+          "english_word": "to announce",
+          "german_word": "ankündigen; durchsagen",
+          "english_example": "They announced that the train was two hours late.",
+          "german_example": "Es wurde durchgesagt, dass der Zug zwei Stunden Verspätung hatte."
+        },
+        {
+          "english_word": "technical",
+          "german_word": "technisch; handwerklich; fachlich",
+          "english_example": "I'm not good at Maths, so I guess I wouldn't be so great at a technical job.",
+          "german_example": "Ich bin nicht gut in Mathe, also wäre ich wohl nicht so toll in einem technischen Beruf."
+        },
+        {
+          "english_word": "to suit sb",
+          "german_word": "(zu) jmdm. passen; jmdm. stehen",
+          "english_example": "Which colour suits me better: black or grey?",
+          "german_example": "Welche Farbe steht mir besser: Schwarz oder Grau?"
+        },
+        {
+          "english_word": "mood",
+          "german_word": "Stimmung; Laune",
+          "english_example": "Can you describe the mood in that film scene?",
+          "german_example": "Kannst du die Stimmung in dieser Filmszene beschreiben?"
+        },
+        {
+          "english_word": "versus",
+          "german_word": "gegen",
+          "english_example": "Old versus young - who will win our quiz? ! 'Vs.', 'vs.', 'v.' and 'V' are short for 'versus': I've got tickets for the Germany vs. Italy match.",
+          "german_example": "Alt gegen Jung – wer wird unser Quiz gewinnen?"
+        },
+        {
+          "english_word": "to be available",
+          "german_word": "zur Verfügung stehen; abkömmlich sein",
+          "english_example": "Online shops are available all day and all night. That's why many people prefer online shopping.",
+          "german_example": "Online-Shops stehen Tag und Nacht zur Verfügung. Deshalb bevorzugen viele Menschen das Online-Shopping."
+        },
+        {
+          "english_word": "delivery",
+          "german_word": "Lieferung; Auslieferung; Zustellung",
+          "english_example": "Newspaper delivery is between 6 and 10 a.m.",
+          "german_example": "Die Zeitungszustellung erfolgt zwischen 6 und 10 Uhr morgens."
+        },
+        {
+          "english_word": "customer",
+          "german_word": "Kunde / Kundin",
+          "english_example": "Loyal customers often get special offers.",
+          "german_example": "Treue Kunden erhalten oft Sonderangebote."
+        },
+        {
+          "english_word": "fraud",
+          "german_word": "Betrug",
+          "english_example": "The jewellery wasn't real - it was a fraud!",
+          "german_example": "Der Schmuck war nicht echt – es war ein Betrug!"
+        },
+        {
+          "english_word": "mobility",
+          "german_word": "Mobilität",
+          "english_example": "More mobility means more emissions.",
+          "german_example": "Mehr Mobilität bedeutet mehr Emissionen."
+        },
+        {
+          "english_word": "employer",
+          "german_word": "Arbeitgeber/-in",
+          "english_example": "This company is one of the region's biggest employers.",
+          "german_example": "Dieses Unternehmen ist einer der größten Arbeitgeber der Region."
+        },
+        {
+          "english_word": "power station",
+          "german_word": "Kraftwerk",
+          "english_example": "Power stations use fossil fuels to produce electricity.",
+          "german_example": "Kraftwerke nutzen fossile Brennstoffe, um Strom zu erzeugen."
+        },
+        {
+          "english_word": "drought",
+          "german_word": "Dürre; Trockenheit",
+          "english_example": "drought -> ! 'Drought' rhymes with 'out'.",
+          "german_example": "Dürre -> Das Wort 'Drought' reimt sich auf 'out'."
+        },
+        {
+          "english_word": "to do without sth",
+          "german_word": "ohne etw. auskommen",
+          "english_example": "Can you do without eating chocolate for a week?",
+          "german_example": "Kommst du eine Woche lang ohne Schokolade aus?"
+        },
+        {
+          "english_word": "wind farm",
+          "german_word": "Windpark",
+          "english_example": "Wind farms produce electricity in a sustainable way.",
+          "german_example": "Windparks erzeugen Strom auf nachhaltige Weise."
+        },
+        {
+          "english_word": "cable",
+          "german_word": "Kabel",
+          "english_example": "My brother has at least five cables to charge his mobile.",
+          "german_example": "Mein Bruder hat mindestens fünf Kabel, um sein Handy aufzuladen."
+        },
+        {
+          "english_word": "to generate",
+          "german_word": "generieren; erzeugen",
+          "english_example": "To protect the environment, we need to find new ways of generating power.",
+          "german_example": "Um die Umwelt zu schützen, müssen wir neue Wege der Stromerzeugung finden."
+        },
+        {
+          "english_word": "access",
+          "german_word": "Zugang",
+          "english_example": "Most IT words are English and are universally understood.",
+          "german_example": "Die meisten IT-Wörter sind auf Englisch und werden universell verstanden."
+        },
+        {
+          "english_word": "account",
+          "german_word": "Konto",
+          "english_example": "Some are used with German endings.",
+          "german_example": "Einige werden mit deutschen Endungen verwendet."
+        },
+        {
+          "english_word": "app",
+          "german_word": "Anwendung",
+          "english_example": "German translations are only used for some of them.",
+          "german_example": "Deutsche Übersetzungen werden nur für einige von ihnen verwendet."
+        },
+        {
+          "english_word": "artificial intelligence (AI)",
+          "german_word": "künstliche Intelligenz (KI)",
+          "english_example": "AI is becoming increasingly important in modern software.",
+          "german_example": "KI wird in moderner Software immer wichtiger."
+        },
+        {
+          "english_word": "button",
+          "german_word": "Knopf",
+          "english_example": "Click the button to save your changes.",
+          "german_example": "Klicke auf den Knopf, um deine Änderungen zu speichern."
+        },
+        {
+          "english_word": "cable",
+          "german_word": "Kabel",
+          "english_example": "Connect the device using the provided cable.",
+          "german_example": "Schließe das Gerät mit dem mitgelieferten Kabel an."
+        },
+        {
+          "english_word": "computer",
+          "german_word": "Rechner",
+          "english_example": "He works on his computer all day.",
+          "german_example": "Er arbeitet den ganzen Tag an seinem Rechner."
+        },
+        {
+          "english_word": "connection",
+          "german_word": "Verbindung",
+          "english_example": "Please check your internet connection.",
+          "german_example": "Bitte überprüfe deine Internetverbindung."
+        },
+        {
+          "english_word": "data",
+          "german_word": "Daten",
+          "english_example": "The database contains a lot of personal data.",
+          "german_example": "Die Datenbank enthält viele persönliche Daten."
+        },
+        {
+          "english_word": "device",
+          "german_word": "Gerät",
+          "english_example": "A smartphone is a mobile device.",
+          "german_example": "Ein Smartphone ist ein mobiles Gerät."
+        },
+        {
+          "english_word": "format",
+          "german_word": "Format, formatieren",
+          "english_example": "You need to format the hard drive before use.",
+          "german_example": "Du musst die Festplatte vor der Verwendung formatieren."
+        },
+        {
+          "english_word": "operating system",
+          "german_word": "Betriebssystem",
+          "english_example": "Which operating system does your phone run on?",
+          "german_example": "Auf welchem Betriebssystem läuft dein Telefon?"
+        },
+        {
+          "english_word": "password",
+          "german_word": "Passwort",
+          "english_example": "Never share your password with anyone.",
+          "german_example": "Teile dein Passwort niemals mit jemandem."
+        },
+        {
+          "english_word": "platform",
+          "german_word": "Plattform",
+          "english_example": "The learning platform is easy to use.",
+          "german_example": "Die Lernplattform ist einfach zu bedienen."
+        },
+        {
+          "english_word": "robot",
+          "german_word": "Roboter, Automat",
+          "english_example": "The factory uses robots to assemble cars.",
+          "german_example": "Die Fabrik setzt Roboter ein, um Autos zu montieren."
+        },
+        {
+          "english_word": "screen",
+          "german_word": "Bildschirm",
+          "english_example": "The screen of my tablet is cracked.",
+          "german_example": "Der Bildschirm meines Tablets hat einen Riss."
+        },
+        {
+          "english_word": "search engine",
+          "german_word": "Suchmaschine",
+          "english_example": "Google is the most popular search engine.",
+          "german_example": "Google ist die beliebteste Suchmaschine."
+        },
+        {
+          "english_word": "service",
+          "german_word": "Dienst",
+          "english_example": "The cloud service offers online storage.",
+          "german_example": "Der Cloud-Dienst bietet Online-Speicherplatz."
+        },
+        {
+          "english_word": "settings",
+          "german_word": "Einstellungen",
+          "english_example": "You can change the language in the settings.",
+          "german_example": "Du kannst die Sprache in den Einstellungen ändern."
+        },
+        {
+          "english_word": "wifi",
+          "german_word": "WLAN",
+          "english_example": "Is there free wifi available here?",
+          "german_example": "Gibt es hier kostenloses WLAN?"
+        },
+        {
+          "english_word": "window",
+          "german_word": "Fenster",
+          "english_example": "Close the active window to return to the desktop.",
+          "german_example": "Schließe das aktive Fenster, um zum Desktop zurückzukehren."
+        }
+      ]
+    },
+    {
+      "id": "u2_skills",
+      "name": "Skills: How to chair a discussion",
+      "cards": [
+        {
+          "english_word": "to the point",
+          "german_word": "prägnant; treffend",
+          "english_example": "Keep your dialogues short and to the point.",
+          "german_example": "Halte deine Dialoge kurz und prägnant."
+        },
+        {
+          "english_word": "duty",
+          "german_word": "Pflicht",
+          "english_example": "It is your duty to help a hurt person.",
+          "german_example": "Es ist deine Pflicht, einer verletzten Person zu helfen."
+        }
+      ]
+    },
+    {
+      "id": "u2_unit_task",
+      "name": "Unit 1: a class debate",
+      "cards": [
+        {
+          "english_word": "to set",
+          "german_word": "setzen; aufstellen",
+          "english_example": "In a debate the chairperson sets the rules.",
+          "german_example": "In einer Debatte stellt der Vorsitzende die Regeln auf."
+        },
+        {
+          "english_word": "move",
+          "german_word": "Bewegung; Zug",
+          "english_example": "1. Jay knows lots of dance moves. 2. It was a clever move to start the debate with this argument.",
+          "german_example": "1. Jay kennt viele Tanzbewegungen. 2. Es war ein kluger Zug, die Debatte mit diesem Argument zu beginnen."
+        },
+        {
+          "english_word": "vote",
+          "german_word": "Abstimmung; Stimme; Wahl",
+          "english_example": "A politician has to earn my vote; then I might vote for them.",
+          "german_example": "Ein Politiker muss sich meine Stimme verdienen; dann stimme ich vielleicht für ihn."
+        },
+        {
+          "english_word": "Your time is up.",
+          "german_word": "Deine / Eure Zeit ist um.",
+          "english_example": "It's my turn now. Your time is up.",
+          "german_example": "Jetzt bin ich an der Reihe. Deine Zeit ist um."
+        }
+      ]
+    },
+    {
+      "id": "u2_story",
+      "name": "Story: The Carbon Diaries 2015",
+      "cards": [
+        {
+          "english_word": "ration",
+          "german_word": "Ration",
+          "english_example": "ration = having only a certain amount of sth",
+          "german_example": "Ration = nur eine bestimmte Menge von etwas zu haben"
+        },
+        {
+          "english_word": "petrol (BE)",
+          "german_word": "Benzin",
+          "english_example": "How much petrol does your car use?",
+          "german_example": "Wie viel Benzin verbraucht dein Auto?"
+        },
+        {
+          "english_word": "to mess sth up (infml)",
+          "german_word": "etw. vergeigen (ugs.)",
+          "english_example": "to mess sth up -> to do sth badly or wrong",
+          "german_example": "to mess sth up -> etwas schlecht oder falsch machen"
+        },
+        {
+          "english_word": "reduction",
+          "german_word": "Reduzierung; Verminderung",
+          "english_example": "There's a price reduction on all fish products today.",
+          "german_example": "Heute gibt es eine Preissenkung auf alle Fischprodukte."
+        },
+        {
+          "english_word": "over the top (infml)",
+          "german_word": "übertrieben; überzogen",
+          "english_example": "Your reaction is a bit over the top, don't you think? ! Abkürzung: OTT",
+          "german_example": "Deine Reaktion ist ein bisschen übertrieben, findest du nicht?"
+        },
+        {
+          "english_word": "to go",
+          "german_word": "sagen",
+          "english_example": "I said, \"You can't do that!\" But she went, \"Yes, I can.\"",
+          "german_example": "Ich sagte: „Das kannst du nicht tun!“ Aber sie sagte: „Doch, kann ich.“"
+        },
+        {
+          "english_word": "disgusting",
+          "german_word": "abscheulich; ekelhaft",
+          "english_example": "Ugh! This soup tastes disgusting.",
+          "german_example": "Gund! Diese Suppe schmeckt ekelhaft."
+        },
+        {
+          "english_word": "riot",
+          "german_word": "Aufruhr; Aufstand",
+          "english_example": "The lack of clean water caused several riots.",
+          "german_example": "Der Mangel an sauberem Wasser führte zu mehreren Aufständen."
+        },
+        {
+          "english_word": "to back down",
+          "german_word": "einen Rückzieher machen",
+          "english_example": "After the riots the government backed down and supplied the people with water.",
+          "german_example": "Nach den Unruhen machte die Regierung einen Rückzieher und versorgte die Menschen mit Wasser."
+        },
+        {
+          "english_word": "pathetic",
+          "german_word": "erbärmlich; armselig",
+          "english_example": "In my purse there was a pathetically small amount of money.",
+          "german_example": "In meinem Geldbeutel war eine erbärmlich kleine Menge Geld."
+        },
+        {
+          "english_word": "access (no pl)",
+          "german_word": "Zugang; Zutritt",
+          "english_example": "access = being able to go to a place or use a thing",
+          "german_example": "access = in der Lage sein, an einen Ort zu gehen oder eine Sache zu benutzen"
+        },
+        {
+          "english_word": "kettle",
+          "german_word": "Teekessel; Kessel; Wasserkocher",
+          "english_example": "Where's the kettle? I'd like to make some tea.",
+          "german_example": "Wo ist der Wasserkocher? Ich möchte Tee kochen."
+        },
+        {
+          "english_word": "freezer",
+          "german_word": "Tiefkühlschrank",
+          "english_example": "If you keep food in the freezer, it stays fresh.",
+          "german_example": "Wenn man Lebensmittel im Gefrierschrank aufbewahrt, bleiben sie frisch."
+        },
+        {
+          "english_word": "to unwrap",
+          "german_word": "auswickeln; auspacken",
+          "english_example": "I want to know what's in the parcel. Can I unwrap it?",
+          "german_example": "Ich möchte wissen, was in dem Paket ist. Kann ich es auspacken?"
+        },
+        {
+          "english_word": "to stroke",
+          "german_word": "streicheln",
+          "english_example": "Deep in thought, he was stroking his beard.",
+          "german_example": "In Gedanken versunken streichelte er seinen Bart."
+        },
+        {
+          "english_word": "to rub",
+          "german_word": "reiben; scheuern",
+          "english_example": "1. Your shoes are rubbing because they are too small. 2. The cat was rubbing her back on the floor.",
+          "german_example": "1. Deine Schuhe reiben, weil sie zu klein sind. 2. Die Katze rieb ihren Rücken auf dem Boden."
+        },
+        {
+          "english_word": "drizzle",
+          "german_word": "Nieselregen",
+          "english_example": "The weather forecast announces a drizzle for tomorrow.",
+          "german_example": "Der Wetterbericht kündigt für morgen Nieselregen an."
+        },
+        {
+          "english_word": "to freeze",
+          "german_word": "gefrieren; erstarren",
+          "english_example": "The last winter was so cold that even the river froze.",
+          "german_example": "Der letzte Winter war so kalt, dass sogar der Fluss fror."
+        },
+        {
+          "english_word": "footage",
+          "german_word": "Filmmaterial",
+          "english_example": "Have you seen footage of the earthquake?",
+          "german_example": "Hast du Filmmaterial von dem Erdbeben gesehen?"
+        },
+        {
+          "english_word": "emergency",
+          "german_word": "Notfall; Notlage; Notfall-",
+          "english_example": "That plane can't land, something's wrong with it - it's an emergency!",
+          "german_example": "Das Flugzeug kann nicht landen, etwas stimmt nicht damit – es ist ein Notfall!"
+        },
+        {
+          "english_word": "evil",
+          "german_word": "böse; schlecht",
+          "english_example": "An evil person is bad and enjoys hurting other people.",
+          "german_example": "Eine böse Person ist schlecht und hat Spaß daran, andere Menschen zu verletzen."
+        },
+        {
+          "english_word": "to bake",
+          "german_word": "backen",
+          "english_example": "You bake bread, cakes and biscuits.",
+          "german_example": "Man backt Brot, Kuchen und Kekse."
+        },
+        {
+          "english_word": "staff",
+          "german_word": "Personal; Mitarbeiter",
+          "english_example": "He is allowed to go in because he is a member of the staff.",
+          "german_example": "Er darf hineingehen, weil er ein Mitarbeiter ist."
+        },
+        {
+          "english_word": "checkout",
+          "german_word": "Kasse",
+          "english_example": "My aunt works at the checkout of a big supermarket.",
+          "german_example": "Meine Tante arbeitet an der Kasse eines großen Supermarktes."
+        },
+        {
+          "english_word": "edge",
+          "german_word": "Rand; Kante",
+          "english_example": "If you put the bottle on the edge of the table, it may fall off!",
+          "german_example": "Wenn du die Flasche auf die Tischkante stellst, fällt sie vielleicht herunter!"
+        },
+        {
+          "english_word": "blackout",
+          "german_word": "Stromausfall",
+          "english_example": "Last night there was a blackout for ten minutes.",
+          "german_example": "Gestern Abend gab es einen zehnminütigen Stromausfall."
+        },
+        {
+          "english_word": "Swiss",
+          "german_word": "Schweizer; schweizerisch",
+          "english_example": "Swiss knives are said to be the best knives.",
+          "german_example": "Schweizer Messer sollen die besten Messer sein."
+        },
+        {
+          "english_word": "to refuse",
+          "german_word": "ablehnen; sich weigern; zurückweisen",
+          "english_example": "refuse = to say you will not do or accept sth",
+          "german_example": "refuse = sagen, dass man etwas nicht tun oder annehmen wird"
+        },
+        {
+          "english_word": "to beg (for)",
+          "german_word": "betteln (um); anflehen",
+          "english_example": "1. The man was begging for money. 2. My friend begged me to help him.",
+          "german_example": "1. Der Mann bettelte um Geld. 2. Mein Freund flehte mich an, ihm zu helfen."
+        },
+        {
+          "english_word": "annoying",
+          "german_word": "ärgerlich; lästig",
+          "english_example": "It's so annoying that I have to babysit my brother.",
+          "german_example": "Es ist so nervig, dass ich auf meinen Bruder aufpassen muss."
+        },
+        {
+          "english_word": "a no-brainer",
+          "german_word": "ein Kinderspiel",
+          "english_example": "The carbon maths is a no-brainer. = It's easy to work out that long-distance shipping by plane causes more carbon emissions than transport over a short distance in a lorry.",
+          "german_example": "Die CO2-Rechnung ist ein Selbstläufer. = Es ist leicht auszurechnen, dass der Langstreckentransport per Flugzeug mehr CO2-Emissionen verursacht als der Kurzstreckentransport im Lkw."
+        },
+        {
+          "english_word": "a real no-no",
+          "german_word": "ein echtes Tabu",
+          "english_example": "Flights are a real no-no. = You're not even supposed to speak or think about flying.",
+          "german_example": "Flüge sind ein absolutes No-Go. = Man soll nicht einmal über das Fliegen sprechen oder nachdenken."
+        },
+        {
+          "english_word": "so",
+          "german_word": "so sehr, dermaßen",
+          "english_example": "That was so the best thing about unrestricted carbon. = I can't stress enough how much that meant to me when there were no restrictions.",
+          "german_example": "Das war sowas von das Beste an unbeschränktem CO2."
+        },
+        {
+          "english_word": "thru",
+          "german_word": "durch (= through)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "wanna",
+          "german_word": "wollen (= want to)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "gonna",
+          "german_word": "werden (= going to)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "cept",
+          "german_word": "außer (= except)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "cos",
+          "german_word": "weil (= because)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "temp",
+          "german_word": "Temperatur (= temperature)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "aircon",
+          "german_word": "Klimaanlage (= air-conditioning)",
+          "english_example": "These words or phrases are shortened.",
+          "german_example": "Diese Wörter oder Phrasen sind abgekürzt."
+        },
+        {
+          "english_word": "yer stoopid cow",
+          "german_word": "du blöde Kuh",
+          "english_example": "You'd better not use these words!",
+          "german_example": "Es ist besser, diese Wörter nicht zu verwenden!"
+        },
+        {
+          "english_word": "bastard",
+          "german_word": "Bastard, Mistkerl",
+          "english_example": "You'd better not use these words!",
+          "german_example": "Es ist besser, diese Wörter nicht zu verwenden!"
+        },
+        {
+          "english_word": "bloody",
+          "german_word": "verdammt",
+          "english_example": "You'd better not use these words!",
+          "german_example": "Es ist besser, diese Wörter nicht zu verwenden!"
+        },
+        {
+          "english_word": "bitch",
+          "german_word": "Zicke, Miststück",
+          "english_example": "You'd better not use these words!",
+          "german_example": "Es ist besser, diese Wörter nicht zu verwenden!"
+        },
+        {
+          "english_word": "humorous",
+          "german_word": "humorvoll; lustig",
+          "english_example": "My favourite film has many humorous dialogues.",
+          "german_example": "Mein Lieblingsfilm hat viele humorvolle Dialoge."
+        },
+        {
+          "english_word": "pressure",
+          "german_word": "Druck",
+          "english_example": "If you have a lot of work to do in a short time, you may feel under pressure.",
+          "german_example": "Wenn man in kurzer Zeit viel Arbeit zu erledigen hat, fühlt man sich möglicherweise unter Druck."
+        },
+        {
+          "english_word": "irony",
+          "german_word": "Ironie",
+          "english_example": "Children usually don't understand irony. They believe everything you say.",
+          "german_example": "Kinder verstehen normalerweise keine Ironie. Sie glauben alles, was man sagt."
+        },
+        {
+          "english_word": "relief",
+          "german_word": "Erleichterung",
+          "english_example": "It was a great relief to see that my best friend was not hurt in the accident.",
+          "german_example": "Es war eine große Erleichterung zu sehen, dass mein bester Freund bei dem Unfall nicht verletzt wurde."
+        },
+        {
+          "english_word": "restriction",
+          "german_word": "Einschränkung; Beschränkung",
+          "english_example": "There should be tougher age restrictions on video games.",
+          "german_example": "Es sollte strengere Altersbeschränkungen für Videospiele geben."
+        },
+        {
+          "english_word": "tension",
+          "german_word": "Spannung",
+          "english_example": "tension = a nervous feeling that you get when you can't relax.",
+          "german_example": "tension = ein nervöses Gefühl, das man bekommt, wenn man sich nicht entspannen kann."
+        },
+        {
+          "english_word": "egoism",
+          "german_word": "Egoismus",
+          "english_example": "She doesn't like sharing. That's her egoism.",
+          "german_example": "Sie teilt nicht gerne. Das ist ihr Egoismus."
+        },
+        {
+          "english_word": "selfishness",
+          "german_word": "Selbstsucht",
+          "english_example": "She never does anything for other people. This is a sign of selfishness.",
+          "german_example": "Sie tut nie etwas für andere Menschen. Das ist ein Zeichen von Selbstsucht."
+        },
+        {
+          "english_word": "honesty",
+          "german_word": "Ehrlichkeit",
+          "english_example": "Honesty is important in any relationship.",
+          "german_example": "Ehrlichkeit ist in jeder Beziehung wichtig."
+        },
+        {
+          "english_word": "cooperation",
+          "german_word": "Zusammenarbeit; Kooperation",
+          "english_example": "The product was developed in cooperation with another company.",
+          "german_example": "Das Produkt wurde in Zusammenarbeit mit einem anderen Unternehmen entwickelt."
+        },
+        {
+          "english_word": "solidarity",
+          "german_word": "Solidarität; Zusammenhalt",
+          "english_example": "Many people expressed their solidarity with the protesters.",
+          "german_example": "Viele Menschen drückten ihre Solidarität mit den Protestierenden aus."
+        }
+      ]
+    }
+  ]
+}

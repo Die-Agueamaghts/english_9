@@ -1,0 +1,370 @@
+{
+  "categories": [
+    {
+      "id": "focus_1",
+      "name": "F1: Aotearoa - the 'land of the long white cloud'",
+      "cards": [
+        {
+          "english_word": "to emigrate",
+          "german_word": "emigrieren, auswandern",
+          "english_example": "to emigrate = to leave your own country in order to start a new life in another one.",
+          "german_example": "emigrieren = das eigene Land verlassen, um ein neues Leben in einem anderen zu beginnen."
+        },
+        {
+          "english_word": "Maori",
+          "german_word": "Maori",
+          "english_example": "The Maori are the native people of New Zealand.",
+          "german_example": "Die Maori sind die Ureinwohner von Neuseeland."
+        },
+        {
+          "english_word": "kiwi",
+          "german_word": "Kiwi (Flugunfähiger Vogel); Kiwi (Frucht)",
+          "english_example": "'Kiwi' is the name of an Australian bird and a fruit.",
+          "german_example": "„Kiwi“ ist der Name eines australischen Vogels und einer Frucht."
+        },
+        {
+          "english_word": "to breed",
+          "german_word": "züchten",
+          "english_example": "We have bred race horses for 100 years.",
+          "german_example": "Wir züchten seit 100 Jahren Rennpferde."
+        },
+        {
+          "english_word": "wool",
+          "german_word": "Wolle",
+          "english_example": "I usually buy pullovers made of sheep wool because I think they're the warmest.",
+          "german_example": "Ich kaufe normalerweise Pullover aus Schafwolle, weil ich denke, dass sie am wärmsten sind."
+        },
+        {
+          "english_word": "to limit (to)",
+          "german_word": "limitieren (auf); begrenzen (auf); beschränken (auf)",
+          "english_example": "The guided tour is limited to 15 people.",
+          "german_example": "Die Führung ist auf 15 Personen begrenzt."
+        },
+        {
+          "english_word": "boost",
+          "german_word": "Auftrieb",
+          "english_example": "The film star's visit gave a boost to the new restaurant.",
+          "german_example": "Der Besuch des Filmstars gab dem neuen Restaurant Auftrieb."
+        },
+        {
+          "english_word": "dairy",
+          "german_word": "Molkerei; Molkerei-",
+          "english_example": "Milk and butter are dairy products.",
+          "german_example": "Milch und Butter sind Molkereiprodukte."
+        },
+        {
+          "english_word": "Kiwi (infml)",
+          "german_word": "Neuseeländer/-in",
+          "english_example": "Kiwi = an informal word for a person from New Zealand",
+          "german_example": "Kiwi = ein informelles Wort für eine Person aus Neuseeland"
+        },
+        {
+          "english_word": "passion",
+          "german_word": "Passion; Leidenschaft",
+          "english_example": "Singing is my passion.",
+          "german_example": "Singen ist meine Leidenschaft."
+        },
+        {
+          "english_word": "gradual",
+          "german_word": "allmählich",
+          "english_example": "A gradual change is a slow change.",
+          "german_example": "Eine allmähliche Veränderung ist eine langsame Veränderung."
+        },
+        {
+          "english_word": "distant",
+          "german_word": "entfernt; distanziert",
+          "english_example": "Most of my memories from childhood are very distant, but some feel like it was yesterday.",
+          "german_example": "Die meisten meiner Kindheitserinnerungen sind weit entfernt, aber einige fühlen sich an, als wäre es gestern gewesen."
+        },
+        {
+          "english_word": "i.e. (= that is)",
+          "german_word": "das heißt (Abk.: d.h.)",
+          "english_example": "Not all Kiwis, i.e. the people of New Zealand, speak Maori.",
+          "german_example": "Nicht alle Kiwis, d.h. die Menschen in Neuseeland, sprechen Maori."
+        },
+        {
+          "english_word": "temperate",
+          "german_word": "gemäßigt",
+          "english_example": "temperate = not too high and not too low",
+          "german_example": "gemäßigt = nicht zu hoch und nicht zu niedrig"
+        },
+        {
+          "english_word": "to separate",
+          "german_word": "(sich) trennen",
+          "english_example": "separate (adj.) = getrennt; to separate = (sich) trennen",
+          "german_example": "separate (Adj.) = getrennt; to separate = (sich) trennen"
+        },
+        {
+          "english_word": "predator",
+          "german_word": "Raubtier",
+          "english_example": "Wolves are predators.",
+          "german_example": "Wölfe sind Raubtiere."
+        },
+        {
+          "english_word": "parrot",
+          "german_word": "Papagei",
+          "english_example": "We try to teach our parrot some words.",
+          "german_example": "Wir versuchen, unserem Papagei einige Wörter beizubringen."
+        },
+        {
+          "english_word": "wealthy",
+          "german_word": "wohlhabend; reich",
+          "english_example": "Wealthy people have big houses and drive expensive cars.",
+          "german_example": "Wohlhabende Menschen haben große Häuser und fahren teure Autos."
+        },
+        {
+          "english_word": "to profit",
+          "german_word": "profitieren",
+          "english_example": "Our family profits from my sister's job: she works as a camerawoman and often gets free concert tickets.",
+          "german_example": "Unsere Familie profitiert vom Beruf meiner Schwester: Sie arbeitet als Kamerafrau und bekommt oft kostenlose Konzertkarten."
+        },
+        {
+          "english_word": "to export",
+          "german_word": "exportieren; ausführen",
+          "english_example": "to export -> export",
+          "german_example": "exportieren -> Export"
+        },
+        {
+          "english_word": "profitable",
+          "german_word": "profitabel; gewinnbringend",
+          "english_example": "The café closed because it wasn't profitable any more.",
+          "german_example": "Das Café schloss, weil es nicht mehr rentabel war."
+        },
+        {
+          "english_word": "agriculture",
+          "german_word": "Landwirtschaft",
+          "english_example": "Climate change is already affecting agriculture.",
+          "german_example": "Der Klimawandel wirkt sich bereits auf die Landwirtschaft aus."
+        },
+        {
+          "english_word": "share",
+          "german_word": "Anteil",
+          "english_example": "It's unfair, my brother never does his share of the household chores.",
+          "german_example": "Es ist unfair, mein Bruder erledigt nie seinen Teil der Hausarbeit."
+        },
+        {
+          "english_word": "machinery",
+          "german_word": "Maschinen",
+          "english_example": "When the factory closed, the machinery was sold.",
+          "german_example": "Als die Fabrik schloss, wurden die Maschinen verkauft."
+        },
+        {
+          "english_word": "proportion",
+          "german_word": "Anteil; Verhältnis",
+          "english_example": "The proportion of sheep to people is 6:1 in New Zealand.",
+          "german_example": "Das Verhältnis von Schafen zu Menschen beträgt in Neuseeland 6:1."
+        },
+        {
+          "english_word": "renewable",
+          "german_word": "erneuerbar; verlängerbar",
+          "english_example": "Wind and water are renewable energies.",
+          "german_example": "Wind und Wasser sind erneuerbare Energien."
+        },
+        {
+          "english_word": "governor-general",
+          "german_word": "Generalgouverneur",
+          "english_example": "governor-general = the person who represents the British monarch in some countries of the Commonwealth",
+          "german_example": "governor-general = die Person, die den britischen Monarchen in einigen Ländern des Commonwealth vertritt"
+        },
+        {
+          "english_word": "economy",
+          "german_word": "Wirtschaft; Ökonomie",
+          "english_example": "These words and collocations are useful if you want to talk about a country's economy.",
+          "german_example": "Diese Wörter und Kollokationen sind nützlich, wenn man über die Wirtschaft eines Landes sprechen möchte."
+        },
+        {
+          "english_word": "economic",
+          "german_word": "wirtschaftlich; Wirtschafts-; ökonomisch",
+          "english_example": "economic growth / transformation",
+          "german_example": "Wirtschaftswachstum / wirtschaftlicher Wandel"
+        },
+        {
+          "english_word": "economical",
+          "german_word": "wirtschaftlich (= sparsam); ökonomisch",
+          "english_example": "an economical car",
+          "german_example": "ein sparsames Auto"
+        },
+        {
+          "english_word": "export, to export",
+          "german_word": "Export, exportieren",
+          "english_example": "exporting country",
+          "german_example": "Exportnation"
+        },
+        {
+          "english_word": "import, to import",
+          "german_word": "Import, importieren",
+          "english_example": "to depend on imports",
+          "german_example": "von Importen abhängig sein"
+        },
+        {
+          "english_word": "transport, shipping",
+          "german_word": "Transport, Versand",
+          "english_example": "container / refrigerated shipping",
+          "german_example": "Containervand / Kühltransport"
+        },
+        {
+          "english_word": "industry",
+          "german_word": "Industrie; Gewerbe",
+          "english_example": "key industry",
+          "german_example": "Schlüsselindustrie"
+        },
+        {
+          "english_word": "technology",
+          "german_word": "Technik; Technologie",
+          "english_example": "information technology (IT)",
+          "german_example": "Informationstechnik / -technologie, Informatik"
+        },
+        {
+          "english_word": "ethnicity",
+          "german_word": "ethnische Zugehörigkeit; Volkszugehörigkeit",
+          "english_example": "Ethnicity is the fact of belonging to a group that has common national or cultural traditions.",
+          "german_example": "Ethnizität ist die Tatsache, einer Gruppe anzugehören, die gemeinsame nationale oder kulturelle Traditionen hat."
+        },
+        {
+          "english_word": "geographic",
+          "german_word": "geografisch",
+          "english_example": "The USA has many places with special geographic features.",
+          "german_example": "Die USA haben viele Orte mit besonderen geografischen Merkmalen."
+        },
+        {
+          "english_word": "one-sided",
+          "german_word": "einseitig",
+          "english_example": "If an article features one-sided arguments, it isn't objective.",
+          "german_example": "Wenn ein Artikel einseitige Argumente enthält, ist er nicht objektiv."
+        },
+        {
+          "english_word": "nun",
+          "german_word": "Nonne",
+          "english_example": "I was born in a hospital where the nurses were nuns.",
+          "german_example": "Ich wurde in einem Krankenhaus geboren, in dem die Krankenschwestern Nonnen waren."
+        },
+        {
+          "english_word": "host",
+          "german_word": "Gastgeber/-in; Talkmaster/-in",
+          "english_example": "The host of the talk show asked a lot of questions.",
+          "german_example": "Der Moderator der Talkshow stellte viele Fragen."
+        },
+        {
+          "english_word": "regional",
+          "german_word": "regional",
+          "english_example": "The regional weather forecast was less accurate than our local one.",
+          "german_example": "Die regionale Wettervorhersage war weniger genau als unsere lokale."
+        },
+        {
+          "english_word": "screen",
+          "german_word": "Bildschirm",
+          "english_example": "TVs and computers have a screen.",
+          "german_example": "Fernseher und Computer haben einen Bildschirm."
+        },
+        {
+          "english_word": "heritage",
+          "german_word": "Erbe",
+          "english_example": "We shouldn't forget our cultural heritage.",
+          "german_example": "Wir sollten unser kulturelles Erbe nicht vergessen."
+        },
+        {
+          "english_word": "indeed",
+          "german_word": "in der Tat; tatsächlich; allerdings",
+          "english_example": "Is this your dog? – It is indeed.",
+          "german_example": "Ist das dein Hund? – Er ist es in der Tat."
+        },
+        {
+          "english_word": "generic term",
+          "german_word": "Oberbegriff",
+          "english_example": "In the Maori language 'haka' is the generic term for 'dance'.",
+          "german_example": "In der Sprache der Maori ist „Haka“ der Oberbegriff für „Tanz“."
+        },
+        {
+          "english_word": "to mourn",
+          "german_word": "trauern",
+          "english_example": "The family mourned for their dog.",
+          "german_example": "Die Familie trauerte um ihren Hund."
+        },
+        {
+          "english_word": "funeral",
+          "german_word": "Beerdigung; Begräbnis",
+          "english_example": "There were at least 100 people at my grandpa's funeral.",
+          "german_example": "Es waren mindestens 100 Personen bei der Beerdigung meines Großvaters."
+        },
+        {
+          "english_word": "to indicate",
+          "german_word": "anzeigen; angeben",
+          "english_example": "The numbers indicated a rise of the global temperature.",
+          "german_example": "Die Zahlen deuteten auf einen Anstieg der globalen Temperatur hin."
+        },
+        {
+          "english_word": "ideal",
+          "german_word": "ideal",
+          "english_example": "Careful with the pronunciation.",
+          "german_example": "Vorsicht bei der Aussprache."
+        },
+        {
+          "english_word": "to incorporate",
+          "german_word": "berücksichtigen; integrieren",
+          "english_example": "The trip incorporates both time to study and time to relax.",
+          "german_example": "Die Reise beinhaltet sowohl Zeit zum Lernen als auch Zeit zum Entspannen."
+        },
+        {
+          "english_word": "needle",
+          "german_word": "Nadel",
+          "english_example": "Be careful not to sting your finger with the needle!",
+          "german_example": "Pass auf, dass du dir nicht mit der Nadel in den Finger stichst!"
+        },
+        {
+          "english_word": "ink",
+          "german_word": "Tinte",
+          "english_example": "To make a tattoo you need a needle and ink.",
+          "german_example": "Um ein Tattoo zu machen, braucht man eine Nadel und Tinte."
+        },
+        {
+          "english_word": "unlike",
+          "german_word": "anders als; im Gegensatz zu",
+          "english_example": "Unlike my parents I'm very musical.",
+          "german_example": "Im Gegensatz zu meinen Eltern bin ich sehr musikalisch."
+        },
+        {
+          "english_word": "gap year",
+          "german_word": "ein Jahr Auszeit (zwischen Schule und Ausbildung/Studium), das oft für einen freiwilligen ökologischen oder sozialen Dienst genutzt wird",
+          "english_example": "After finishing school many young people spend a gap year abroad.",
+          "german_example": "Nach dem Schulabschluss verbringen viele junge Menschen ein Orientierungsjahr im Ausland."
+        },
+        {
+          "english_word": "mainstream",
+          "german_word": "Masse; Durchschnitt; Massen-; Durchschnitts-",
+          "english_example": "I don't like what everybody else likes. I'm not into the mainstream hobbies.",
+          "german_example": "Ich mag nicht das, was alle anderen mögen. Ich stehe nicht auf Mainstream-Hobbies."
+        },
+        {
+          "english_word": "nowadays",
+          "german_word": "heutzutage",
+          "english_example": "Nowadays life without the internet seems to be almost impossible for many people.",
+          "german_example": "Heutzutage scheint ein Leben ohne Internet für viele Menschen fast unmöglich zu sein."
+        },
+        {
+          "english_word": "to release",
+          "german_word": "herausbringen; veröffentlichen",
+          "english_example": "My favourite singer released two albums this year.",
+          "german_example": "Mein Lieblingssänger hat dieses Jahr zwei Alben herausgebracht."
+        },
+        {
+          "english_word": "to condemn",
+          "german_word": "verurteilen; missbilligen",
+          "english_example": "The United Nations condemned apartheid politics.",
+          "german_example": "Die Vereinten Nationen verurteilten die Apartheid-Politik."
+        },
+        {
+          "english_word": "point",
+          "german_word": "Argument; Standpunkt",
+          "english_example": "You're right. I agree with your point.",
+          "german_example": "Du hast recht. Ich stimme deinem Argument zu."
+        },
+        {
+          "english_word": "bone",
+          "german_word": "Knochen",
+          "english_example": "Dogs love bones.",
+          "german_example": "Hunde lieben Knochen."
+        }
+      ]
+    }
+  ]
+}

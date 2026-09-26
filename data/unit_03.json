@@ -1,0 +1,1072 @@
+{
+  "categories": [
+    {
+      "id": "u3_check_in",
+      "name": "Check-in: The good life",
+      "cards": [
+        {
+          "english_word": "the good life",
+          "german_word": "das Dolce Vita",
+          "english_example": "I'm living the good life: I have won lots of money and needn't worry for the rest of my life.",
+          "german_example": "Ich lebe das süße Leben: Ich habe viel Geld gewonnen und brauche mir für den Rest meines Lebens keine Sorgen zu machen."
+        },
+        {
+          "english_word": "(job) interview",
+          "german_word": "Vorstellungsgespräch",
+          "english_example": "I've been invited for a job interview on Thursday. How can I prepare?",
+          "german_example": "Ich bin für Donnerstag zu einem Vorstellungsgespräch eingeladen worden. Wie kann ich mich vorbereiten?"
+        },
+        {
+          "english_word": "fulfilling",
+          "german_word": "erfüllend; befriedigend",
+          "english_example": "! Be careful with the spelling: full + fill -> fulfilling",
+          "german_example": "Achte auf die Rechtschreibung: full + fill -> fulfilling"
+        },
+        {
+          "english_word": "materialistic",
+          "german_word": "materialistisch",
+          "english_example": "I don't own many things. I guess I'm not very materialistic.",
+          "german_example": "Ich besitze nicht viele Dinge. Ich schätze, ich bin nicht sehr materialistisch."
+        },
+        {
+          "english_word": "adventurous",
+          "german_word": "abenteuerlich; unternehmungslustig; wagemutig; experimentierfreudig",
+          "english_example": "My older sister has an adventurous lifestyle: She flies all over the world for her job.",
+          "german_example": "Meine ältere Schwester hat einen abenteuerlichen Lebensstil: Sie fliegt für ihren Beruf um die ganze Welt."
+        },
+        {
+          "english_word": "payment",
+          "german_word": "Bezahlung; Lohn; Zahlung",
+          "english_example": "1. Payment is one of the aspects that made me choose this career. 2. I've made the payment online just now.",
+          "german_example": "1. Die Bezahlung ist einer der Aspekte, die mich dazu bewogen haben, diesen Berufsweg einzuschlagen. 2. Ich habe die Zahlung gerade eben online getätigt."
+        },
+        {
+          "english_word": "recognition",
+          "german_word": "Anerkennung; Erkennung",
+          "english_example": "As a doctor I get a lot of recognition in my job.",
+          "german_example": "Als Arzt bekomme ich in meinem Beruf viel Anerkennung."
+        },
+        {
+          "english_word": "professional",
+          "german_word": "Berufs-",
+          "english_example": "A professional actor does acting as a job.",
+          "german_example": "Ein professioneller Schauspieler übt das Schauspielern als Beruf aus."
+        },
+        {
+          "english_word": "personnel services (pl)",
+          "german_word": "Personaldienstleistungen",
+          "english_example": "Private personnel services are looking for workers all the time.",
+          "german_example": "Private Personaldienstleister suchen ständig nach Arbeitskräften."
+        },
+        {
+          "english_word": "social care",
+          "german_word": "Sozialfürsorge; Sozialdienstleistungen",
+          "english_example": "After school I'm going to work in social care because I like helping people.",
+          "german_example": "Nach der Schule werde ich in der Sozialfürsorge arbeiten, weil ich gerne Menschen helfe."
+        },
+        {
+          "english_word": "freelance",
+          "german_word": "freiberuflich",
+          "english_example": "He's his own boss - he works as a freelance journalist.",
+          "german_example": "Er ist sein eigener Chef – er arbeitet als freiberuflicher Journalist."
+        },
+        {
+          "english_word": "construction",
+          "german_word": "Bau; Baugewerbe",
+          "english_example": "My parents both work in construction: my dad is an engineer, my mum is an architect.",
+          "german_example": "Meine Eltern arbeiten beide auf dem Bau: Mein Vater ist Ingenieur, meine Mutter ist Architektin."
+        },
+        {
+          "english_word": "public administration (no pl)",
+          "german_word": "öffentliche Verwaltung",
+          "english_example": "The police is part of public administration.",
+          "german_example": "Die Polizei ist Teil der öffentlichen Verwaltung."
+        },
+        {
+          "english_word": "hospitality",
+          "german_word": "Gastfreundschaft",
+          "english_example": "The local people are famous for their warm hospitality.",
+          "german_example": "Die Einheimischen sind bekannt für ihre herzliche Gastfreundschaft."
+        },
+        {
+          "english_word": "logistics (pl)",
+          "german_word": "Logistik",
+          "english_example": "There are several people who are organising the logistics for the party, like setting up tables, buying food and drinks, etc.",
+          "german_example": "Es gibt mehrere Personen, die die Logistik für die Party organisieren, wie das Aufstellen von Tischen, den Einkauf von Essen und Getränken usw."
+        },
+        {
+          "english_word": "warehousing",
+          "german_word": "Lagerhaltung",
+          "english_example": "We sell equipment for large ships so warehousing is an issue.",
+          "german_example": "Wir verkaufen Ausrüstung für große Schiffe, daher ist die Lagerhaltung ein Thema."
+        },
+        {
+          "english_word": "insurance",
+          "german_word": "Versicherung",
+          "english_example": "My dad works at an insurance company.",
+          "german_example": "Mein Vater arbeitet bei einer Versicherungsgesellschaft."
+        },
+        {
+          "english_word": "real estate",
+          "german_word": "Grundbesitz; Immobilien",
+          "english_example": "Did you know that there are real estate companies that sell only castles?",
+          "german_example": "Wusstest du, dass es Immobilienfirmen gibt, die nur Schlösser verkaufen?"
+        },
+        {
+          "english_word": "recreation",
+          "german_word": "Freizeitbeschäftigung; Erholung",
+          "english_example": "What kind of recreation do you prefer? Are you into outdoor or indoor activities?",
+          "german_example": "Welche Art von Erholung bevorzugst du? Stehst du auf Outdoor- oder Indoor-Aktivitäten?"
+        },
+        {
+          "english_word": "fishery",
+          "german_word": "Fischfang; Fischerei",
+          "english_example": "Fishery is a big industry in Alaska.",
+          "german_example": "Die Fischerei ist ein großer Wirtschaftszweig in Alaska."
+        }
+      ]
+    },
+    {
+      "id": "u3_station_1",
+      "name": "Station 1: Best summer ever!",
+      "cards": [
+        {
+          "english_word": "counsellor",
+          "german_word": "Betreuer/-in; Berater/-in",
+          "english_example": "Camp counsellors are the people who work with the children at summer camps. ! Be careful with the spelling.",
+          "german_example": "Camp-Betreuer sind die Personen, die in Sommerlagern mit den Kindern arbeiten."
+        },
+        {
+          "english_word": "senior",
+          "german_word": "leitend; älter",
+          "english_example": "This is Mr Grand, one of the senior managers of our company. senior ↔ assistant",
+          "german_example": "Das ist Herr Grand, einer der leitenden Manager unseres Unternehmens."
+        },
+        {
+          "english_word": "no matter",
+          "german_word": "egal; ganz gleich",
+          "english_example": "No matter what the problem is, just call if you need my help!",
+          "german_example": "Ganz gleich, was das Problem ist, ruf einfach an, wenn du meine Hilfe brauchst!"
+        },
+        {
+          "english_word": "testimonial",
+          "german_word": "Erfahrungsbericht",
+          "english_example": "A product review is a testimonial about the product.",
+          "german_example": "Eine Produktbewertung ist ein Erfahrungsbericht über das Produkt."
+        },
+        {
+          "english_word": "outgoing",
+          "german_word": "kontaktfreudig",
+          "english_example": "She's very outgoing. It's easy for her to make new friends. outgoing ↔ shy",
+          "german_example": "Sie ist sehr kontaktfreudig. Es fällt ihr leicht, neue Freunde zu finden."
+        },
+        {
+          "english_word": "qualification",
+          "german_word": "Qualifikation; Befähigung; Abschluss; Schulabschluss",
+          "english_example": "What qualifications do you need for this job?",
+          "german_example": "Welche Qualifikationen benötigt man für diesen Job?"
+        },
+        {
+          "english_word": "applicant",
+          "german_word": "Bewerber/-in",
+          "english_example": "In a letter of application, the applicant applies for a job. applicant → to apply, application",
+          "german_example": "In einem Bewerbungsschreiben bewirbt sich der Bewerber um eine Stelle."
+        },
+        {
+          "english_word": "all-rounder",
+          "german_word": "Allrounder; Alleskönner/-in; Multitalent",
+          "english_example": "An all-rounder doesn't focus on just one special talent.",
+          "german_example": "Ein Allrounder konzentriert sich nicht nur auf ein einziges besonderes Talent."
+        },
+        {
+          "english_word": "to reveal",
+          "german_word": "offenbaren; aufdecken",
+          "english_example": "The journalist didn't reveal his source. to reveal = to make sth known, to show",
+          "german_example": "Der Journalist hat seine Quelle nicht offengelegt."
+        },
+        {
+          "english_word": "gender stereotyping",
+          "german_word": "Einordnung nach Geschlechterklischees",
+          "english_example": "It's gender stereotyping to expect all women to be good in the kitchen and all men to love fast cars.",
+          "german_example": "Es ist ein Geschlechterklischee zu erwarten, dass alle Frauen gut in der Küche sind und alle Männer schnelle Autos lieben."
+        },
+        {
+          "english_word": "to conduct",
+          "german_word": "durchführen; ausführen",
+          "english_example": "Reporters conduct lots of interviews.",
+          "german_example": "Reporter führen viele Interviews durch."
+        },
+        {
+          "english_word": "male",
+          "german_word": "männlich",
+          "english_example": "Is there an English word for a male pig? - Boar. male ↔ female",
+          "german_example": "Gibt es ein englisches Wort für ein männliches Schwein? – Keiler."
+        },
+        {
+          "english_word": "profession",
+          "german_word": "Beruf",
+          "english_example": "My profession is teaching. profession → professional",
+          "german_example": "Mein Beruf ist das Unterrichten."
+        },
+        {
+          "english_word": "head teacher",
+          "german_word": "Schulleiter/-in",
+          "english_example": "head teacher = the boss of all the teachers at a school",
+          "german_example": "head teacher = der Chef aller Lehrer an einer Schule"
+        },
+        {
+          "english_word": "ambition",
+          "german_word": "Ehrgeiz; Ambitionen",
+          "english_example": "She has ambitions to become a doctor. ambition → ambitious",
+          "german_example": "Sie hat Ambitionen, Ärztin zu werden."
+        },
+        {
+          "english_word": "(business) executive",
+          "german_word": "Geschäftsführer/-in; Manager/-in; gehobene Führungskraft",
+          "english_example": "The executives all have their offices on the top floor of our building.",
+          "german_example": "Die Führungskräfte haben alle ihre Büros in der obersten Etage unseres Gebäudes."
+        },
+        {
+          "english_word": "sales",
+          "german_word": "Vertrieb; Verkauf",
+          "english_example": "Working in sales is not for me. I prefer scientific work.",
+          "german_example": "Im Verkauf zu arbeiten ist nichts für mich. Ich bevorzuge wissenschaftliche Arbeit."
+        },
+        {
+          "english_word": "to meet sb's expectations",
+          "german_word": "jmds. Erwartungen erfüllen",
+          "english_example": "The concert wasn't as good as I thought it would be. It really didn't meet my expectations.",
+          "german_example": "Das Konzert war nicht so gut, wie ich dachte. Es hat meine Erwartungen wirklich nicht erfüllt."
+        },
+        {
+          "english_word": "comprehensive school",
+          "german_word": "Gesamtschule",
+          "english_example": "I had a comprehensive school education.",
+          "german_example": "Ich hatte eine Gesamtschulausbildung."
+        },
+        {
+          "english_word": "GCSE (= General Certificate of Secondary Education)",
+          "german_word": "allg. Abschluss der weiterführenden Schulen in GB",
+          "english_example": "Last year the school had record GCSE results from its year 11 students.",
+          "german_example": "Letztes Jahr hatte die Schule rekordverdächtige GCSE-Ergebnisse von ihren Schülern aus dem 11. Jahrgang."
+        },
+        {
+          "english_word": "hard-working",
+          "german_word": "fleißig",
+          "english_example": "We are looking for hard-working and motivated volunteers.",
+          "german_example": "Wir suchen fleißige und motivierte Freiwillige."
+        },
+        {
+          "english_word": "people skills (pl)",
+          "german_word": "soziale Kompetenz",
+          "english_example": "If you have good people skills, you communicate well and make people feel comfortable.",
+          "german_example": "Wenn man eine gute soziale Kompetenz hat, kommuniziert man gut und sorgt dafür, dass sich die Menschen wohlfühlen."
+        },
+        {
+          "english_word": "reference",
+          "german_word": "Referenz; Referenzschreiben; Bezugnahme; Erwähnung",
+          "english_example": "1. As an attachment you will find two references. 2. I am writing to you with reference to your advertisement.",
+          "german_example": "1. Im Anhang finden Sie zwei Referenzschreiben. 2. Ich schreibe Ihnen mit Bezug auf Ihre Anzeige."
+        },
+        {
+          "english_word": "request",
+          "german_word": "Anfrage; Nachfrage",
+          "english_example": "I'll send the company more information on request.",
+          "german_example": "Auf Anfrage werde ich dem Unternehmen weitere Informationen zusenden."
+        },
+        {
+          "english_word": "Ms",
+          "german_word": "Frau (Anrede)",
+          "english_example": "If you don't know if a woman is married, you use 'Ms' before her name.",
+          "german_example": "Wenn man nicht weiß, ob eine Frau verheiratet ist, verwendet man „Ms“ vor ihrem Namen."
+        },
+        {
+          "english_word": "to consider",
+          "german_word": "berücksichtigen",
+          "english_example": "If you have to take a decision, you should consider the advantages and disadvantages.",
+          "german_example": "Wenn man eine Entscheidung treffen muss, sollte man die Vor- und Nachteile berücksichtigen."
+        },
+        {
+          "english_word": "attachment",
+          "german_word": "Anhang",
+          "english_example": "Sorry, I forgot to send the attachment with my e-mail this morning.",
+          "german_example": "Entschuldigung, ich habe heute Morgen vergessen, den Anhang mit meiner E-Mail zu senden."
+        },
+        {
+          "english_word": "enclosure",
+          "german_word": "Anlage; Beilage",
+          "english_example": "One of the enclosures is a copy of my report card.",
+          "german_example": "Eine der Anlagen ist eine Kopie meines Zeugnisses."
+        },
+        {
+          "english_word": "furthermore",
+          "german_word": "überdies; außerdem",
+          "english_example": "furthermore - a formal word you can use to introduce another argument in a discussion",
+          "german_example": "furthermore – ein formelles Wort, mit dem man ein weiteres Argument in eine Diskussion einbringen kann"
+        },
+        {
+          "english_word": "work experience",
+          "german_word": "Praktikum; Schülerpraktikum",
+          "english_example": "Every student has to do work experience.",
+          "german_example": "Jeder Schüler muss ein Praktikum absolvieren."
+        },
+        {
+          "english_word": "lifeguard",
+          "german_word": "Rettungsschwimmer/-in",
+          "english_example": "The lifeguard told us to leave the water because there were dangerous currents.",
+          "german_example": "Der Rettungsschwimmer sagte uns, wir sollten das Wasser verlassen, da es gefährliche Strömungen gab."
+        },
+        {
+          "english_word": "commitment",
+          "german_word": "Bindung; Verpflichtung; Engagement",
+          "english_example": "Showing social commitment helps others, but it's meaningful for your own life as well.",
+          "german_example": "Soziales Engagement zu zeigen hilft anderen, ist aber auch für das eigene Leben bedeutsam."
+        },
+        {
+          "english_word": "to involve",
+          "german_word": "involvieren; einbeziehen; beteiligen",
+          "english_example": "If you involve sb in sth, you include them, e.g. in a situation or activity.",
+          "german_example": "Wenn man jemanden in etwas einbezieht, schließt man ihn ein, z. B. in eine Situation oder Aktivität."
+        },
+        {
+          "english_word": "moral",
+          "german_word": "moralisch",
+          "english_example": "Fairy tales usually have a moral message.",
+          "german_example": "Märchen haben meist eine moralische Botschaft."
+        },
+        {
+          "english_word": "the elderly",
+          "german_word": "ältere Menschen; Senioren",
+          "english_example": "the elderly - a more polite word for 'old people'",
+          "german_example": "the elderly – ein höflicheres Wort für „alte Menschen“"
+        },
+        {
+          "english_word": "Dear Sir or Madam,",
+          "german_word": "Sehr geehrte Damen und Herren,",
+          "english_example": "Tips: Use the appropriate salutations.",
+          "german_example": "Tipps: Verwende die passenden Anreden."
+        },
+        {
+          "english_word": "Dear Mr ... / Ms ...,",
+          "german_word": "Sehr geehrter Herr ... / Sehr geehrte Frau ...,",
+          "english_example": "A reference line is helpful.",
+          "german_example": "Eine Betreffzeile ist hilfreich."
+        },
+        {
+          "english_word": "With reference to ...",
+          "german_word": "Unter Bezugnahme auf ..., bezüglich",
+          "english_example": "Begin the first line after the salutation with a capital letter.",
+          "german_example": "Beginne die erste Zeile nach der Anrede mit einem Großbuchstaben."
+        },
+        {
+          "english_word": "I was interested to read your advertisement ...",
+          "german_word": "Mit Interesse habe ich Ihre Anzeige ... gelesen.",
+          "english_example": "I was interested to read your advertisement in the newspaper.",
+          "german_example": "Mit Interesse habe ich Ihre Anzeige in der Zeitung gelesen."
+        },
+        {
+          "english_word": "I am writing to inquire if / whether ...",
+          "german_word": "Ich möchte mich erkundigen, ob ...",
+          "english_example": "I am writing to inquire if the position is still available.",
+          "german_example": "Ich möchte mich erkundigen, ob die Stelle noch frei ist."
+        },
+        {
+          "english_word": "I would like to apply for the post / position of ...",
+          "german_word": "Ich möchte mich um die Stelle ... bewerben.",
+          "english_example": "I would like to apply for the post of camp counsellor.",
+          "german_example": "Ich möchte mich um die Stelle als Camp-Betreuer bewerben."
+        },
+        {
+          "english_word": "As discussed on the phone, ...",
+          "german_word": "Wie telefonisch besprochen, ...",
+          "english_example": "As discussed on the phone, I am sending you my references.",
+          "german_example": "Wie telefonisch besprochen, sende ich Ihnen meine Referenzen."
+        },
+        {
+          "english_word": "As you will see from my CV, ...",
+          "german_word": "Wie Sie meinem Lebenslauf entnehmen können, ...",
+          "english_example": "As you will see from my CV, I have done work experience.",
+          "german_example": "Wie Sie meinem Lebenslauf entnehmen können, habe ich ein Praktikum absolviert."
+        },
+        {
+          "english_word": "I am currently attending ... school.",
+          "german_word": "Momentan besuche ich eine / die ... Schule.",
+          "english_example": "I am currently attending a comprehensive school.",
+          "german_example": "Momentan besuche ich eine Gesamtschule."
+        },
+        {
+          "english_word": "I have basic / advanced ... skills.",
+          "german_word": "Ich verfüge über Grundkenntnisse / fortgeschrittene Kenntnisse / Fertigkeiten in ...",
+          "english_example": "I have advanced computer skills.",
+          "german_example": "Ich verfüge über fortgeschrittene Computerkenntnisse."
+        },
+        {
+          "english_word": "I am available ... at any time.",
+          "german_word": "Ich stehe jederzeit ... zur Verfügung.",
+          "english_example": "I am available for an interview at any time.",
+          "german_example": "Ich stehe jederzeit für ein Vorstellungsgespräch zur Verfügung."
+        },
+        {
+          "english_word": "I enclose ...",
+          "german_word": "Ich füge ... bei.",
+          "english_example": "I enclose my certificates.",
+          "german_example": "Ich füge meine Zeugnisse bei."
+        },
+        {
+          "english_word": "enclosure / attachment",
+          "german_word": "Anlage / Anhang",
+          "english_example": "Please find the documents in the attachment.",
+          "german_example": "Bitte finden Sie die Dokumente im Anhang."
+        },
+        {
+          "english_word": "Thank you for considering my ...",
+          "german_word": "Vielen Dank für die Berücksichtigung meiner/-s ...",
+          "english_example": "Thank you for considering my application.",
+          "german_example": "Vielen Dank für die Berücksichtigung meiner Bewerbung."
+        },
+        {
+          "english_word": "I look forward to hearing from you soon.",
+          "german_word": "Ich freue mich darauf, bald von Ihnen zu hören.",
+          "english_example": "I look forward to hearing from you soon regarding the position.",
+          "german_example": "Ich freue mich darauf, bald von Ihnen bezüglich der Stelle zu hören."
+        },
+        {
+          "english_word": "Yours sincerely / Sincerely, ...",
+          "german_word": "Mit freundlichen Grüßen",
+          "english_example": "Yours sincerely, John Smith.",
+          "german_example": "Mit freundlichen Grüßen, John Smith."
+        },
+        {
+          "english_word": "Yours truly, ... (AE)",
+          "german_word": "Mit freundlichen Grüßen",
+          "english_example": "Yours truly is often used in American English.",
+          "german_example": "Yours truly wird oft im amerikanischen Englisch verwendet."
+        }
+      ]
+    },
+    {
+      "id": "u3_station_2",
+      "name": "Station 2: I do remember how it feels ...",
+      "cards": [
+        {
+          "english_word": "wisdom (no pl)",
+          "german_word": "Weisheit; Klugheit",
+          "english_example": "Wisdom comes with age and experience.",
+          "german_example": "Weisheit kommt mit dem Alter und der Erfahrung."
+        },
+        {
+          "english_word": "carpenter",
+          "german_word": "Schreiner/-in; Zimmermann; Zimmerin",
+          "english_example": "Being a carpenter is great for me because I'm able to work with my hands.",
+          "german_example": "Zimmermann zu sein ist toll für mich, weil ich mit meinen Händen arbeiten kann."
+        },
+        {
+          "english_word": "not only ... but (also)",
+          "german_word": "nicht nur ... sondern (auch)",
+          "english_example": "Not only did I lose my passport in Australia, but I also lost my phone!",
+          "german_example": "Ich habe in Australien nicht nur meinen Reisepass verloren, sondern auch mein Handy!"
+        },
+        {
+          "english_word": "to stack",
+          "german_word": "stapeln",
+          "english_example": "Stocking wood all day isn't my idea of a great job!",
+          "german_example": "Den ganzen Tag Holz zu stapeln ist nicht meine Vorstellung von einem tollen Job!"
+        },
+        {
+          "english_word": "exhausting",
+          "german_word": "anstrengend",
+          "english_example": "Running a marathon is exhausting.",
+          "german_example": "Einen Marathon zu laufen ist anstrengend."
+        },
+        {
+          "english_word": "by",
+          "german_word": "vorbei",
+          "english_example": "School days never go by fast enough.",
+          "german_example": "Schultage gehen nie schnell genug vorbei."
+        },
+        {
+          "english_word": "benefit",
+          "german_word": "Vorteil; Nutzen; Unterstützung",
+          "english_example": "What's the benefit of a clothing drive?",
+          "german_example": "Was ist der Nutzen einer Altkleidersammlung?"
+        },
+        {
+          "english_word": "pay",
+          "german_word": "Lohn; Gehalt",
+          "english_example": "pay = the money a person receives for doing their job",
+          "german_example": "Lohn = das Geld, das eine Person für die Ausübung ihrer Arbeit erhält"
+        },
+        {
+          "english_word": "wage",
+          "german_word": "Lohn",
+          "english_example": "The government raised the minimum wage.",
+          "german_example": "Die Regierung hat den Mindestlohn angehoben."
+        },
+        {
+          "english_word": "patient",
+          "german_word": "geduldig",
+          "english_example": "Be patient with me, I don't know anything about computers.",
+          "german_example": "Hab Geduld mit mir, ich weiß gar nichts über Computer."
+        },
+        {
+          "english_word": "incredible",
+          "german_word": "unglaublich",
+          "english_example": "The movie I saw was incredibly bad.",
+          "german_example": "Der Film, den ich gesehen habe, war unglaublich schlecht."
+        },
+        {
+          "english_word": "lazy",
+          "german_word": "faul",
+          "english_example": "I had a wonderful lazy weekend. lazy ↔ busy",
+          "german_example": "Ich hatte ein wunderbares, faules Wochenende."
+        },
+        {
+          "english_word": "leaflet",
+          "german_word": "Broschüre; Informationsblatt; Prospekt",
+          "english_example": "What information does the leaflet give about jobs in fashion?",
+          "german_example": "Welche Informationen gibt das Faltblatt über Berufe in der Modebranche?"
+        },
+        {
+          "english_word": "course",
+          "german_word": "Kurs",
+          "english_example": "They organise sports courses for school groups.",
+          "german_example": "Sie organisieren Sportkurse für Schulgruppen."
+        },
+        {
+          "english_word": "police officer",
+          "german_word": "Polizist/-in",
+          "english_example": "A police officer works in public administration.",
+          "german_example": "Ein Polizist arbeitet in der öffentlichen Verwaltung."
+        },
+        {
+          "english_word": "firefighter",
+          "german_word": "Feuerwehrmann / Feuerwehrfrau",
+          "english_example": "Firefighters help in emergencies.",
+          "german_example": "Feuerwehrleute helfen in Notfällen."
+        },
+        {
+          "english_word": "government official",
+          "german_word": "Regierungsbeamter/-in",
+          "english_example": "A government official is part of public services.",
+          "german_example": "Ein Regierungsbeamter ist Teil des öffentlichen Dienstes."
+        },
+        {
+          "english_word": "accountant",
+          "german_word": "Buchhalter/-prüfer/-in",
+          "english_example": "Accountants work with numbers and taxes.",
+          "german_example": "Buchhalter arbeiten mit Zahlen und Steuern."
+        },
+        {
+          "english_word": "real estate agent",
+          "german_word": "Immobilienmakler/-in",
+          "english_example": "A real estate agent sells houses and apartments.",
+          "german_example": "Ein Immobilienmakler verkauft Häuser und Wohnungen."
+        },
+        {
+          "english_word": "tax consultant",
+          "german_word": "Steuerberater/-in",
+          "english_example": "A tax consultant helps people with their taxes.",
+          "german_example": "Ein Steuerberater hilft Menschen bei ihren Steuern."
+        },
+        {
+          "english_word": "bank / human resources / marketing / project / sales manager",
+          "german_word": "Bank- / Personal- / Marketing- / Projekt- / Vertriebsmanager/-in",
+          "english_example": "The marketing manager plans the new campaign.",
+          "german_example": "Der Marketingmanager plant die neue Kampagne."
+        },
+        {
+          "english_word": "human resources - personnel",
+          "german_word": "Personal",
+          "english_example": "Human resources deals with company staff.",
+          "german_example": "Die Personalabteilung befasst sich mit den Mitarbeitern des Unternehmens."
+        },
+        {
+          "english_word": "sales representative",
+          "german_word": "Vertreter/-in, Außendienstmitarbeiter/-in",
+          "english_example": "A sales representative travels to meet customers.",
+          "german_example": "Ein Außendienstmitarbeiter reist, um Kunden zu treffen."
+        },
+        {
+          "english_word": "CEO = Chief Executive Officer",
+          "german_word": "Geschäftsführer/-in",
+          "english_example": "The CEO is the highest manager in a company.",
+          "german_example": "Der CEO ist der höchste Manager in einem Unternehmen."
+        },
+        {
+          "english_word": "entrepreneur",
+          "german_word": "Unternehmer/-in",
+          "english_example": "An entrepreneur starts a new business venture.",
+          "german_example": "Ein Unternehmer gründet ein neues Geschäftsvorhaben."
+        },
+        {
+          "english_word": "software architect / designer / developer",
+          "german_word": "Softwarearchitekt/-in / Designer/-in / Entwickler/-in",
+          "english_example": "A developer writes the code for software applications.",
+          "german_example": "Ein Entwickler schreibt den Code für Softwareanwendungen."
+        },
+        {
+          "english_word": "web designer",
+          "german_word": "Webdesigner/-in",
+          "english_example": "Web designers create websites.",
+          "german_example": "Webdesigner erstellen Websites."
+        },
+        {
+          "english_word": "journalist, reporter, editor",
+          "german_word": "Journalist/-in, Reporter/-in, Redakteur/-in",
+          "english_example": "A journalist reports on the news.",
+          "german_example": "Ein Journalist berichtet über die Nachrichten."
+        },
+        {
+          "english_word": "publisher",
+          "german_word": "Verleger/-in",
+          "english_example": "The publisher releases books or magazines.",
+          "german_example": "Der Verleger bringt Bücher oder Zeitschriften heraus."
+        },
+        {
+          "english_word": "lecturer",
+          "german_word": "Dozent",
+          "english_example": "A university lecturer teaches students.",
+          "german_example": "Ein Universitätsdozent unterrichtet Studenten."
+        },
+        {
+          "english_word": "teacher",
+          "german_word": "Lehrer/-in",
+          "english_example": "A teacher works at a school.",
+          "german_example": "Ein Lehrer arbeitet an einer Schule."
+        },
+        {
+          "english_word": "anthropologist, archaeologist, historian, sociologist",
+          "german_word": "Anthropologe/-in, Archäologe/-in, Historiker/-in, Soziologe/-in",
+          "english_example": "An archaeologist studies history by digging up artifacts.",
+          "german_example": "Ein Archäologe erforscht die Geschichte durch das Ausgraben von Artefakten."
+        },
+        {
+          "english_word": "biologist, chemist, physicist",
+          "german_word": "Biologe/-in, Chemiker/-in, Physiker/-in",
+          "english_example": "A chemist works in a scientific laboratory.",
+          "german_example": "Ein Chemiker arbeitet in einem wissenschaftlichen Labor."
+        },
+        {
+          "english_word": "architect",
+          "german_word": "Architekt/-in",
+          "english_example": "An architect designs buildings.",
+          "german_example": "Ein Architekt entwirft Gebäude."
+        },
+        {
+          "english_word": "civil engineer",
+          "german_word": "Bauingenieur/-in",
+          "english_example": "A civil engineer designs roads and bridges.",
+          "german_example": "Ein Bauingenieur plant Straßen und Brücken."
+        },
+        {
+          "english_word": "interior designer",
+          "german_word": "Innenarchitekt/-in",
+          "english_example": "An interior designer plans the look inside a house.",
+          "german_example": "Ein Innenarchitekt plant das Aussehen im Inneren eines Hauses."
+        },
+        {
+          "english_word": "politician",
+          "german_word": "Politiker/-in",
+          "english_example": "Politicians make laws for the country.",
+          "german_example": "Politiker machen Gesetze für das Land."
+        },
+        {
+          "english_word": "judge",
+          "german_word": "Richter/-in",
+          "english_example": "The judge decides on court cases.",
+          "german_example": "Der Richter entscheidet über Gerichtsverfahren."
+        },
+        {
+          "english_word": "lawyer",
+          "german_word": "Rechtsanwalt / Rechtsanwältin",
+          "english_example": "A lawyer helps people in legal matters.",
+          "german_example": "Ein Anwalt hilft Menschen in rechtlichen Angelegenheiten."
+        },
+        {
+          "english_word": "public prosecutor",
+          "german_word": "Staatsanwalt",
+          "english_example": "The public prosecutor works for the state in court.",
+          "german_example": "Der Staatsanwalt arbeitet vor Gericht für den Staat."
+        },
+        {
+          "english_word": "writer",
+          "german_word": "Schriftsteller/-in; Autor/-in",
+          "english_example": "A writer creates novels and stories.",
+          "german_example": "Ein Schriftsteller verfasst Romane und Geschichten."
+        },
+        {
+          "english_word": "artist",
+          "german_word": "Künstler/-in",
+          "english_example": "An artist creates paintings or sculptures.",
+          "german_example": "Ein Künstler schafft Gemälde oder Skulpturen."
+        },
+        {
+          "english_word": "graphic designer",
+          "german_word": "Grafikdesigner/-in",
+          "english_example": "A graphic designer creates layouts and visual elements.",
+          "german_example": "Ein Grafikdesigner erstellt Layouts und visuelle Elemente."
+        },
+        {
+          "english_word": "director, filmmaker",
+          "german_word": "Regisseur/-in, Filmemacher/-in",
+          "english_example": "The director coordinates the actors on set.",
+          "german_example": "Der Regisseur koordiniert die Schauspieler am Set."
+        },
+        {
+          "english_word": "actor",
+          "german_word": "Schauspieler/-in",
+          "english_example": "An actor performs in movies or plays.",
+          "german_example": "Ein Schauspieler tritt in Filmen oder Theaterstücken auf."
+        },
+        {
+          "english_word": "musician",
+          "german_word": "Musiker/-in",
+          "english_example": "A musician plays instruments or writes songs.",
+          "german_example": "Ein Musiker spielt Instrumente oder schreibt Lieder."
+        },
+        {
+          "english_word": "songwriter",
+          "german_word": "Songwriter/-in; Liedermacher/-in",
+          "english_example": "The songwriter wrote a beautiful ballad.",
+          "german_example": "Der Songwriter schrieb eine wunderschöne Ballade."
+        },
+        {
+          "english_word": "producer",
+          "german_word": "Produzent/-in",
+          "english_example": "A music producer works in the recording studio.",
+          "german_example": "Ein Musikproduzent arbeitet im Tonstudio."
+        },
+        {
+          "english_word": "talk show host",
+          "german_word": "Talkshow-Moderator/-in",
+          "english_example": "The talk show host invites interesting guests.",
+          "german_example": "Der Talkshow-Moderator lädt interessante Gäste ein."
+        },
+        {
+          "english_word": "event / theme park manager",
+          "german_word": "Event- / Freizeitpark-Manager/-in",
+          "english_example": "The manager coordinates everything in the park.",
+          "german_example": "Der Manager koordiniert alles im Park."
+        },
+        {
+          "english_word": "engineer",
+          "german_word": "Ingenieur/-in",
+          "english_example": "Engineers develop technical solutions.",
+          "german_example": "Ingenieure entwickeln technische Lösungen."
+        },
+        {
+          "english_word": "technician",
+          "german_word": "Techniker/-in",
+          "english_example": "The technician repaired the broken device.",
+          "german_example": "Der Techniker reparierte das kaputte Gerät."
+        },
+        {
+          "english_word": "pilot",
+          "german_word": "Pilot/-in",
+          "english_example": "A pilot flies a plane.",
+          "german_example": "Ein Pilot fliegt ein Flugzeug."
+        },
+        {
+          "english_word": "mechanic",
+          "german_word": "Mechaniker/-in",
+          "english_example": "The mechanic repairs cars in the workshop.",
+          "german_example": "Der Mechaniker repariert Autos in der Werkstatt."
+        },
+        {
+          "english_word": "doctor",
+          "german_word": "Arzt / Ärztin",
+          "english_example": "The doctor helps sick people.",
+          "german_example": "Der Arzt hilft kranken Menschen."
+        },
+        {
+          "english_word": "vet",
+          "german_word": "Tierarzt / Tierärztin",
+          "english_example": "A vet treats sick animals.",
+          "german_example": "Ein Tierarzt behandelt kranke Tiere."
+        },
+        {
+          "english_word": "nurse",
+          "german_word": "Krankenpfleger/-schwester",
+          "english_example": "Nurses look after patients in a hospital.",
+          "german_example": "Krankenschwestern kümmern sich um Patienten im Krankenhaus."
+        },
+        {
+          "english_word": "psychologist",
+          "german_word": "Psychologe/-in",
+          "english_example": "A psychologist helps people with mental health issues.",
+          "german_example": "Ein Psychologe hilft Menschen bei psychischen Problemen."
+        },
+        {
+          "english_word": "physiotherapist",
+          "german_word": "Physiotherapeut/-in",
+          "english_example": "The physiotherapist helps patients with their movement.",
+          "german_example": "Der Physiotherapeut hilft Patienten bei ihrer Bewegung."
+        },
+        {
+          "english_word": "social worker",
+          "german_word": "Sozialarbeiter/-in",
+          "english_example": "A social worker supports people in difficult life situations.",
+          "german_example": "Ein Sozialarbeiter unterstützt Menschen in schwierigen Lebenslagen."
+        },
+        {
+          "english_word": "hotel owner / manager",
+          "german_word": "Inhaber/-in / Manager/-in eines Hotels",
+          "english_example": "The manager coordinates the hotel staff.",
+          "german_example": "Der Manager koordiniert das Hotelpersonal."
+        },
+        {
+          "english_word": "restaurant owner / manager",
+          "german_word": "Inhaber/-in / Manager/-in eines Restaurants",
+          "english_example": "The owner opens a new restaurant in town.",
+          "german_example": "Der Besitzer eröffnet ein neues Restaurant in der Stadt."
+        },
+        {
+          "english_word": "cook, chef",
+          "german_word": "Koch/Köchin",
+          "english_example": "The chef prepares delicious food in the kitchen.",
+          "german_example": "Der Koch bereitet köstliches Essen in der Küche zu."
+        },
+        {
+          "english_word": "investment",
+          "german_word": "Einlage; Beteiligung; Investition",
+          "english_example": "She's got a great business idea but needs an investment of £30,000 to get started.",
+          "german_example": "Sie hat eine tolle Geschäftsidee, braucht aber eine Investition von 30.000 Pfund, um durchzustarten."
+        },
+        {
+          "english_word": "toothbrush",
+          "german_word": "Zahnbürste",
+          "english_example": "I need a new toothbrush. Mine is too soft.",
+          "german_example": "Ich brauche eine neue Zahnbürste. Meine ist zu weich."
+        },
+        {
+          "english_word": "no sooner",
+          "german_word": "kaum",
+          "english_example": "No sooner had I told him about my feelings than the whole school knew! What a friend.",
+          "german_example": "Kaum hatte ich ihm von meinen Gefühlen erzählt, wusste es schon die ganze Schule! Was für ein Freund."
+        },
+        {
+          "english_word": "colleague",
+          "german_word": "Kollege / Kollegin",
+          "english_example": "I share my office with three colleagues.",
+          "german_example": "Ich teile mein Büro mit drei Kollegen."
+        }
+      ]
+    },
+    {
+      "id": "u3_skills",
+      "name": "Skills: Making a good impression",
+      "cards": [
+        {
+          "english_word": "to buy time",
+          "german_word": "Zeit gewinnen",
+          "english_example": "In a conversation, you sometimes need to buy time while you think of what to say next.",
+          "german_example": "In einem Gespräch muss man manchmal Zeit gewinnen, während man darüber nachdenkt, was man als Nächstes sagen soll."
+        },
+        {
+          "english_word": "tricky",
+          "german_word": "schwierig; kompliziert",
+          "english_example": "Be prepared for tricky questions at job interviews.",
+          "german_example": "Sei auf knifflige Fragen bei Vorstellungsgesprächen vorbereitet."
+        }
+      ]
+    },
+    {
+      "id": "u3_story",
+      "name": "Story: The Giver",
+      "cards": [
+        {
+          "english_word": "to regulate",
+          "german_word": "regeln; regulieren",
+          "english_example": "to regulate = to control sth by introducing rules",
+          "german_example": "regulieren = etwas durch das Einführen von Regeln kontrollieren"
+        },
+        {
+          "english_word": "assignment",
+          "german_word": "Aufgabe; Auftrag; Mission",
+          "english_example": "Her boss is going to give her a tricky new assignment. assignment = a piece of work that you must do for school or for a job",
+          "german_example": "Ihr Chef wird ihr eine knifflige neue Aufgabe geben."
+        },
+        {
+          "english_word": "destiny",
+          "german_word": "Schicksal; Fügung; Vorsehung",
+          "english_example": "I think it's my destiny to always be late.",
+          "german_example": "Ich glaube, es ist mein Schicksal, immer zu spät zu kommen."
+        },
+        {
+          "english_word": "to assign",
+          "german_word": "zuordnen; übertragen",
+          "english_example": "We're going to do group work, but don't divide up into groups yourselves: I'll assign you to your groups.",
+          "german_example": "Wir werden eine Gruppenarbeit machen, aber teilt euch nicht selbst in Gruppen auf: Ich werde euch euren Gruppen zuweisen."
+        },
+        {
+          "english_word": "to acknowledge",
+          "german_word": "anerkennen; einräumen",
+          "english_example": "We were forced to acknowledge the fact that climate change is a huge problem. to acknowledge = to admit or accept that sth is true or that a situation exists",
+          "german_example": "Wir waren gezwungen, die Tatsache anzuerkennen, dass der Klimawandel ein riesiges Problem ist."
+        },
+        {
+          "english_word": "to shift",
+          "german_word": "hin- und herrutschen",
+          "english_example": "He shifted in his seat because he didn't feel comfortable.",
+          "german_example": "Er rutschte auf seinem Sitz hin und her, weil er sich nicht wohlfühlte."
+        },
+        {
+          "english_word": "throughout",
+          "german_word": "während; überall in",
+          "english_example": "He was playing with his pen throughout the interview. ! Be careful with the spelling.",
+          "german_example": "Er spielte während des gesamten Vorstellungsgesprächs mit seinem Stift."
+        },
+        {
+          "english_word": "gentle",
+          "german_word": "sanft; behutsam",
+          "english_example": "He stroked his cat gently.",
+          "german_example": "Er streichelte seine Katze sanft."
+        },
+        {
+          "english_word": "satisfied",
+          "german_word": "zufrieden; befriedigt",
+          "english_example": "He just got a text message and now he's got a very satisfied look on his face. Hm ...",
+          "german_example": "Er hat gerade eine SMS bekommen und hat jetzt einen sehr zufriedenen Gesichtsausdruck. Hm ..."
+        },
+        {
+          "english_word": "beside",
+          "german_word": "neben",
+          "english_example": "Who's the girl beside you in the picture? beside = next to",
+          "german_example": "Wer ist das Mädchen neben dir auf dem Bild?"
+        },
+        {
+          "english_word": "particular",
+          "german_word": "besonders",
+          "english_example": "Protecting the environment is of particular interest to society, in particular to the young generation.",
+          "german_example": "Der Schutz der Umwelt ist von besonderem Interesse für die Gesellschaft, insbesondere für die junge Generation."
+        },
+        {
+          "english_word": "clumsy",
+          "german_word": "ungeschickt; unbeholfen",
+          "english_example": "After staying in bed for one week with a cold, I felt clumsy when I got up.",
+          "german_example": "Nachdem ich eine Woche mit einer Erkältung im Bett gelegen hatte, fühlte ich mich ungeschickt, als ich aufstand."
+        },
+        {
+          "english_word": "to select",
+          "german_word": "auswählen; aussuchen",
+          "english_example": "to select = a more formal word for 'to choose' / to select → selection",
+          "german_example": "to select = ein formelleres Wort für 'wählen' / to select → Auswahl"
+        },
+        {
+          "english_word": "puzzled",
+          "german_word": "verwirrt; verdutzt",
+          "english_example": "I was so puzzled that I didn't know what to say. puzzled = confused",
+          "german_example": "Ich war so verwirrt, dass ich nicht wusste, was ich sagen sollte."
+        },
+        {
+          "english_word": "firm",
+          "german_word": "fest",
+          "english_example": "In a firm voice she said goodbye and left. firm ↔ soft",
+          "german_example": "Mit fester Stimme verabschiedete sie sich und ging."
+        },
+        {
+          "english_word": "pleasure",
+          "german_word": "Freude; Vergnügen",
+          "english_example": "It was such a pleasure to meet you.",
+          "german_example": "Es war so ein Vergnügen, Sie kennenzulernen / dich kennenzulernen."
+        },
+        {
+          "english_word": "single",
+          "german_word": "einzeln; einzig; alleinstehend",
+          "english_example": "1. a single room = ein Einzelzimmer 2. not a single person = kein einziger Mensch 3. I'm single. = Ich bin alleinstehend.",
+          "german_example": "1. a single room = ein Einzelzimmer 2. not a single person = kein einziger Mensch 3. I'm single. = Ich bin alleinstehend."
+        },
+        {
+          "english_word": "to govern",
+          "german_word": "regeln; verwalten",
+          "english_example": "This policy governs the use of personal data.",
+          "german_example": "Diese Richtlinie regelt die Verwendung personenbezogener Daten."
+        },
+        {
+          "english_word": "to prohibit (sb from doing)",
+          "german_word": "jmdm. untersagen (etw. zu tun); jmdm. verbieten (etw. zu tun)",
+          "english_example": "The students are prohibited from using their mobiles during lessons.",
+          "german_example": "Den Schülern ist es untersagt, ihre Handys während des Unterrichts zu benutzen."
+        },
+        {
+          "english_word": "to permit",
+          "german_word": "erlauben; genehmigen",
+          "english_example": "If time permits, we could also visit the west of the country. to permit ↔ to prohibit",
+          "german_example": "Wenn es die Zeit erlaubt, könnten wir auch den Westen des Landes besuchen."
+        },
+        {
+          "english_word": "session",
+          "german_word": "Sitzung; Stunde",
+          "english_example": "We shake hands at the beginning of each interview session.",
+          "german_example": "Wir schütteln uns zu Beginn jeder Interviewrunde die Hände."
+        },
+        {
+          "english_word": "to shrug (one's shoulders)",
+          "german_word": "mit den Schultern zucken",
+          "english_example": "If you shrug your shoulders, it can mean you don't know about sth, or you aren't interested.",
+          "german_example": "Wenn man mit den Schultern zuckt, kann das bedeuten, dass man etwas nicht weiß oder kein Interesse hat."
+        },
+        {
+          "english_word": "unpredictable",
+          "german_word": "unvorhersehbar",
+          "english_example": "The results of the elections are unpredictable. unpredictable → to predict",
+          "german_example": "Die Ergebnisse der Wahlen sind unvorhersehbar."
+        },
+        {
+          "english_word": "gesture",
+          "german_word": "Geste; Gebärde",
+          "english_example": "He didn't speak English so he used gestures.",
+          "german_example": "Er sprach kein Englisch, also benutzte er Gesten."
+        },
+        {
+          "english_word": "ordinary",
+          "german_word": "gewöhnlich; normal",
+          "english_example": "I thought he was just an ordinary boy from school. I had no idea he was a famous actor. ! False friend: ordinary ≠ ordinär",
+          "german_example": "Ich dachte, er wäre nur ein ganz normaler Junge aus der Schule. Ich hatte keine Ahnung, dass er ein berühmter Schauspieler war."
+        },
+        {
+          "english_word": "right",
+          "german_word": "genau; gerade",
+          "english_example": "The baby is right at the age where she is beginning to walk.",
+          "german_example": "Das Baby ist genau in dem Alter, in dem es zu laufen beginnt."
+        },
+        {
+          "english_word": "mate",
+          "german_word": "Partner/-in",
+          "english_example": "Penguins choose one mate for life. mate = partner",
+          "german_example": "Pinguine wählen einen Partner fürs Leben."
+        },
+        {
+          "english_word": "dystopia",
+          "german_word": "Dystopie",
+          "english_example": "Most science-fiction novels create a kind of dystopia to draw attention to dangerous developments. dystopia = any real or imaginary society... considered to be dangerously imperfect / dystopia → dystopian",
+          "german_example": "Die meisten Science-Fiction-Romane entwerfen eine Art Dystopie, um auf gefährliche Entwicklungen aufmerksam zu machen."
+        },
+        {
+          "english_word": "utopia",
+          "german_word": "Utopie",
+          "english_example": "utopia - any real or imaginary society, place, state etc. considered to be perfect or ideal",
+          "german_example": "Utopie – jede reale oder imaginäre Gesellschaft, jeder Ort, Zustand usw., die als perfekt oder ideal gelten"
+        },
+        {
+          "english_word": "to spy on",
+          "german_word": "nachspionieren; bespitzeln",
+          "english_example": "Have you been spying on me? to spy on = to watch (sb/sth) secretly",
+          "german_example": "Hast du mir nachspioniert?"
+        },
+        {
+          "english_word": "to programme",
+          "german_word": "programmieren",
+          "english_example": "My mother has programmed a new gaming app.",
+          "german_example": "Meine Mutter hat eine neue Spiele-App programmiert."
+        },
+        {
+          "english_word": "to function",
+          "german_word": "funktionieren",
+          "english_example": "My old video games don't function on my new computer. to function = to work",
+          "german_example": "Meine alten Videospiele funktionieren auf meinem neuen Computer nicht."
+        }
+      ]
+    }
+  ]
+}

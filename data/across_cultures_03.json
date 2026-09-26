@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "id": "ac3_having_a_voice",
+      "name": "AC3: Having a voice",
+      "cards": [
+        {
+          "english_word": "voice",
+          "german_word": "Mitsprache",
+          "english_example": "It's a sign of democracy that everyone has a voice.",
+          "german_example": "Es ist ein Zeichen von Demokratie, dass jeder ein Mitspracherecht hat."
+        },
+        {
+          "english_word": "participation",
+          "german_word": "Mitwirkung; Beteiligung; Teilnahme",
+          "english_example": "Participation in school assembly is a must.",
+          "german_example": "Die Teilnahme an der Schulversammlung ist Pflicht."
+        },
+        {
+          "english_word": "banner",
+          "german_word": "Banner; Spruchband; Transparent",
+          "english_example": "The protesters held their banners up high over their heads.",
+          "german_example": "Die Protestierenden hielten ihre Transparente hoch über ihre Köpfe."
+        },
+        {
+          "english_word": "student council",
+          "german_word": "Schülerrat",
+          "english_example": "The Student Council meets every Monday after school.",
+          "german_example": "Der Schülerrat trifft sich jeden Montag nach der Schule."
+        },
+        {
+          "english_word": "to stand up for sb/sth",
+          "german_word": "jmdn./etw. verteidigen; für jmdn./etw. einstehen",
+          "english_example": "Good friends stand up for each other.",
+          "german_example": "Gute Freunde setzen sich füreinander ein."
+        },
+		{
+          "english_word": "signature",
+          "german_word": "Unterschrift",
+          "english_example": "That is your signature? Nobody can read that!",
+          "german_example": "Das ist deine Unterschrift? Niemand kann das lesen!"
+        },
+        {
+          "english_word": "*to make one's point",
+          "german_word": "seinen Standpunkt deutlich machen; auf etwas hinauswollen; ein Argument anbringen",
+          "english_example": "You needn't shout to make your point.",
+          "german_example": "Du brauchst nicht zu schreien, um deinen Standpunkt deutlich zu machen."
+        },
+        {
+          "english_word": "poor",
+          "german_word": "schlecht",
+          "english_example": "He is a poor role model - he makes many bad choices!",
+          "german_example": "Er ist ein schlechtes Vorbild – er trifft viele schlechte Entscheidungen!"
+        },
+        {
+          "english_word": "measure",
+          "german_word": "Maßnahme",
+          "english_example": "The police has called for new safety measures at rock festivals.",
+          "german_example": "Die Polizei hat neue Sicherheitsmaßnahmen bei Rockfestivals gefordert."
+        },
+        {
+          "english_word": "to be passionate about sth",
+          "german_word": "etw. leidenschaftlich gern tun; eine Leidenschaft für etw. haben; für etw. brennen",
+          "english_example": "If you're passionate about sth, then you don't just like it, you love it!",
+          "german_example": "Wenn man für etwas brennt, dann mag man es nicht nur, man liebt es!"
+        },
+        {
+          "english_word": "to admire",
+          "german_word": "bewundern",
+          "english_example": "Everyone admires a hero.",
+          "german_example": "Jeder bewundert einen Helden."
+        },
+        {
+          "english_word": "rewarding",
+          "german_word": "lohnend; bereichernd",
+          "english_example": "Working with children is a very rewarding experience.",
+          "german_example": "Die Arbeit mit Kindern ist eine sehr bereichernde Erfahrung."
+        },
+        {
+          "english_word": "to nominate",
+          "german_word": "nominieren; ernennen",
+          "english_example": "She has been nominated for best actor in the Academy Awards.",
+          "german_example": "Sie wurde für die Oscar-Verleihung als beste Hauptdarstellerin nominiert."
+        },
+        {
+          "english_word": "to participate",
+          "german_word": "teilnehmen",
+          "english_example": "Did you participate in the play last year?",
+          "german_example": "Hast du letztes Jahr an dem Theaterstück teilgenommen?"
+        },
+        {
+          "english_word": "representative",
+          "german_word": "Repräsentant/-in; Stellvertreter/-in",
+          "english_example": "Our representatives in parliament are elected in a democratic way.",
+          "german_example": "Unsere Vertreter im Parlament werden auf demokratische Weise gewählt."
+        },
+        {
+          "english_word": "to have a barbecue / party",
+          "german_word": "veranstalten",
+          "english_example": "It's good to not only know individual words, but also how they are used.",
+          "german_example": "Es ist gut, nicht nur einzelne Wörter zu kennen, sondern auch, wie sie verwendet werden."
+        },
+        {
+          "english_word": "to have a voice / a say / your say",
+          "german_word": "ein Mitspracherecht haben, mitbestimmen",
+          "english_example": "In a democracy, citizens have a voice.",
+          "german_example": "In einer Demokratie haben die Bürger ein Mitspracherecht."
+        },
+        {
+          "english_word": "to have / make an impact",
+          "german_word": "Wirkung zeigen, Eindruck auf jmdn. machen",
+          "english_example": "Her speech made a huge impact on the audience.",
+          "german_example": "Ihre Rede hinterließ beim Publikum einen großen Eindruck."
+        },
+        {
+          "english_word": "to make a choice",
+          "german_word": "eine Wahl treffen",
+          "english_example": "You have to make a choice now.",
+          "german_example": "Du musst jetzt eine Wahl treffen."
+        },
+        {
+          "english_word": "to make / take a decision",
+          "german_word": "eine Entscheidung treffen",
+          "english_example": "It is hard to make a quick decision.",
+          "german_example": "Es ist schwer, eine schnelle Entscheidung zu treffen."
+        },
+        {
+          "english_word": "to make a difference",
+          "german_word": "etwas bewegen, einen Unterschied machen",
+          "english_example": "Every small act can make a difference.",
+          "german_example": "Jede kleine Tat kann etwas bewegen."
+        },
+        {
+          "english_word": "to make friends",
+          "german_word": "Freundschaft schließen",
+          "english_example": "It's easy for him to make friends at school.",
+          "german_example": "Es fällt ihm leicht, in der Schule Freundschaften zu schließen."
+        },
+        {
+          "english_word": "to make a noise / a racket / a din",
+          "german_word": "Lärm machen",
+          "english_example": "The kids are making a lot of noise downstairs.",
+          "german_example": "Die Kinder machen unten eine Menge Lärm."
+        },
+        {
+          "english_word": "to make a point",
+          "german_word": "ein Argument anbringen",
+          "english_example": "She made an important point during the meeting.",
+          "german_example": "Sie brachte während des Treffens ein wichtiges Argument an."
+        },
+        {
+          "english_word": "to make progress",
+          "german_word": "vorankommen, Fortschritte machen",
+          "english_example": "He is making good progress with his English.",
+          "german_example": "Er macht gute Fortschritte mit seinem Englisch."
+        },
+        {
+          "english_word": "to take a bow",
+          "german_word": "sich verbeugen",
+          "english_example": "The actors took a bow after the performance.",
+          "german_example": "Die Schauspieler verbeugten sich nach der Vorstellung."
+        },
+        {
+          "english_word": "to take responsibility / the blame for sth",
+          "german_word": "die Verantwortung / Schuld für etw. tragen, etw. auf seine Kappe nehmen",
+          "english_example": "You need to take responsibility for your actions.",
+          "german_example": "Du musst die Verantwortung für deine Taten übernehmen."
+        },
+        {
+          "english_word": "to take turns",
+          "german_word": "sich abwechseln",
+          "english_example": "We take turns driving the car.",
+          "german_example": "Wir wechseln uns beim Autofahren ab."
+        },
+        {
+          "english_word": "to take a vote (on)",
+          "german_word": "abstimmen (über)",
+          "english_example": "Let's take a vote on the next project topic.",
+          "german_example": "Lasst uns über das nächste Projektthema abstimmen."
+        }
+      ]
+    }
+  ]
+}

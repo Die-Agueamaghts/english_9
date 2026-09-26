@@ -1,0 +1,220 @@
+{
+  "categories": [
+    {
+      "id": "ac2_the_language_of_tolerance_and_respect",
+      "name": "AC2: The language of tolerance and respect",
+      "cards": [
+        {
+          "english_word": "tolerance",
+          "german_word": "Toleranz",
+          "english_example": "A democratic society is based on tolerance and respect.",
+          "german_example": "Eine demokratische Gesellschaft basiert auf Toleranz und Respekt."
+        },
+        {
+          "english_word": "to adapt to sth",
+          "german_word": "sich etw. anpassen",
+          "english_example": "It's not always easy to adapt to a new situation.",
+          "german_example": "Es ist nicht immer einfach, sich an eine neue Situation anzupassen."
+        },
+        {
+          "english_word": "to integrate",
+          "german_word": "(sich) integrieren; (sich) einfügen; einbinden",
+          "english_example": "If you integrate sth, you make it part of sth else.",
+          "german_example": "Wenn man etwas integriert, macht man es zum Teil von etwas anderem."
+        },
+        {
+          "english_word": "various",
+          "german_word": "verschieden; verschiedenartig",
+          "english_example": "There are various ways of how to do this task.",
+          "german_example": "Es gibt verschiedene Möglichkeiten, wie man diese Aufgabe erledigen kann."
+        },
+        {
+          "english_word": "prejudice",
+          "german_word": "Vorurteil",
+          "english_example": "There are still many prejudices against minorities.",
+          "german_example": "Es gibt immer noch viele Vorurteile gegenüber Minderheiten."
+        },
+        {
+          "english_word": "tight",
+          "german_word": "eng",
+          "english_example": "I can't wear this shirt. It's too tight.",
+          "german_example": "Ich kann dieses Hemd nicht tragen. Es ist zu eng."
+        },
+        {
+          "english_word": "to date",
+          "german_word": "ausgehen mit",
+          "english_example": "I dated Tom for half a year before we started our relationship.",
+          "german_example": "Ich ging ein halbes Jahr lang mit Tom aus, bevor wir unsere Beziehung begannen."
+        },
+        {
+          "english_word": "race",
+          "german_word": "Rasse",
+          "english_example": "I love dogs, but I don't like every dog race.",
+          "german_example": "Ich liebe Hunde, aber ich mag nicht jede Hunderasse."
+        },
+        {
+          "english_word": "shallow",
+          "german_word": "oberflächlich; seicht; flach",
+          "english_example": "The water is shallow on this side of the lake.",
+          "german_example": "Das Wasser ist auf dieser Seite des Sees seicht."
+        },
+        {
+          "english_word": "judgement",
+          "german_word": "Urteil; Beurteilung; Meinung",
+          "english_example": "What influenced your judgement about your tutor?",
+          "german_example": "Was hat dein Urteil über deinen Tutor beeinflusst?"
+        },
+        {
+          "english_word": "to be prejudiced against sb/sth",
+          "german_word": "voreingenommen sein gegenüber jmdm./etw.",
+          "english_example": "Why are you prejudiced against homosexual people?",
+          "german_example": "Warum bist du voreingenommen gegenüber homosexuellen Menschen?"
+        },
+        {
+          "english_word": "gender",
+          "german_word": "Geschlecht",
+          "english_example": "Women often fill a traditional gender role when they do all the housework.",
+          "german_example": "Frauen füllen oft eine traditionelle Geschlechterrolle aus, wenn sie die gesamte Hausarbeit erledigen."
+        },
+        {
+          "english_word": "stereotype",
+          "german_word": "Klischee; Stereotyp",
+          "english_example": "A stereotype is an (often wrong) idea about what you expect a person to be like before you even know him/her.",
+          "german_example": "Ein Stereotyp ist eine (oft falsche) Vorstellung davon, wie eine Person sein wird, noch bevor man sie überhaupt kennt."
+        },
+        {
+          "english_word": "to provoke",
+          "german_word": "provozieren; hervorrufen",
+          "english_example": "The president's speech provoked a lot of protest.",
+          "german_example": "Die Rede des Präsidenten rief viel Protest hervor."
+        },
+        {
+          "english_word": "willingly",
+          "german_word": "gern; freiwillig",
+          "english_example": "I provoked my parents willingly because I wanted them to listen to me.",
+          "german_example": "Ich habe meine Eltern absichtlich provoziert, weil ich wollte, dass sie mir zuhören."
+        },
+        {
+          "english_word": "to offend",
+          "german_word": "beleidigen; verletzen",
+          "english_example": "It really offends me when you talk about me behind my back.",
+          "german_example": "Es verletzt mich wirklich sehr, wenn du hinter meinem Rücken über mich redest."
+        },
+        {
+          "english_word": "minority",
+          "german_word": "Minderheit",
+          "english_example": "minority = less than half of the people or things in a group",
+          "german_example": "minority = weniger als die Hälfte der Personen oder Dinge in einer Gruppe"
+        },
+        {
+          "english_word": "diversity",
+          "german_word": "Vielfalt; Verschiedenheit",
+          "english_example": "Cultural diversity describes people with different ethnic, national, or language backgrounds living in one community.",
+          "german_example": "Kulturelle Vielfalt beschreibt Menschen mit unterschiedlichen ethnischen, nationalen oder sprachlichen Hintergründen, die in einer Gemeinschaft zusammenleben."
+        },
+        {
+          "english_word": "pedestrian zone",
+          "german_word": "Fußgängerzone",
+          "english_example": "You won't find as many pedestrian zones in America as you can find in Europe.",
+          "german_example": "In Amerika findet man nicht so viele Fußgängerzonen wie in Europa."
+        },
+        {
+          "english_word": "kiss",
+          "german_word": "Kuss",
+          "english_example": "When they said goodbye, she gave him a kiss.",
+          "german_example": "Als sie sich verabschiedeten, gab sie ihm einen Kuss."
+        },
+        {
+          "english_word": "respectful",
+          "german_word": "respektvoll",
+          "english_example": "People should always talk respectfully to each other.",
+          "german_example": "Menschen sollten immer respektvoll miteinander reden."
+        },
+        {
+          "english_word": "to judge a book by its cover",
+          "german_word": "jdn./etw. nach dem Äußeren beurteilen",
+          "english_example": "to judge a book by its cover = to judge e.g. people by their clothes",
+          "german_example": "to judge a book by its cover = z.B. Menschen nach ihrer Kleidung beurteilen"
+        },
+        {
+          "english_word": "privacy",
+          "german_word": "Privatsphäre",
+          "english_example": "You want people to respect your privacy, so it's only fair to respect theirs.",
+          "german_example": "Du möchtest, dass die Leute deine Privatsphäre respektieren, also ist es nur fair, auch ihre zu respektieren."
+        },
+        {
+          "english_word": "to draw the line (at)",
+          "german_word": "bei etw. die Grenze ziehen",
+          "english_example": "I draw the line at lying. If you lie to me, I expect you to say sorry.",
+          "german_example": "Beim Lügen ziehe ich die Grenze. Wenn du mich anlügst, erwarte ich, dass du dich entschuldigst."
+        },
+        {
+          "english_word": "It's none of our business!",
+          "german_word": "Das geht uns nichts an!",
+          "english_example": "You think she is spending too much time with her boyfriend? That's none of your business!",
+          "german_example": "Du findest, sie verbringt zu viel Zeit mit ihrem Freund? Das geht dich überhaupt nichts an!"
+        },
+        {
+          "english_word": "*to bring up",
+          "german_word": "zur Sprache bringen",
+          "english_example": "During the class discussion their teacher brought up all the problems there were among the students.",
+          "german_example": "Während der Klassendiskussion brachte der Lehrer alle Probleme zur Sprache, die es unter den Schülern gab."
+        },
+        {
+          "english_word": "same-sex",
+          "german_word": "gleichgeschlechtlich",
+          "english_example": "Many countries, including quite a few in Europe, do a lot for same-sex rights. Some do very little.",
+          "german_example": "Viele Länder, darunter etliche in Europa, tun viel für gleichgeschlechtliche Rechte. Einige tun nur sehr wenig."
+        },
+        {
+          "english_word": "lesbian",
+          "german_word": "lesbisch; Lesbe",
+          "english_example": "Lesbians have same-sex relationships.",
+          "german_example": "Lesben führen gleichgeschlechtliche Beziehungen."
+        },
+        {
+          "english_word": "straight (infml)",
+          "german_word": "heterosexuell",
+          "english_example": "Whether they are straight or homosexual, everyone should have the same rights everywhere.",
+          "german_example": "Egal ob sie heterosexuell oder homosexuell sind, jeder sollte überall die gleichen Rechte haben."
+        },
+        {
+          "english_word": "*to come out",
+          "german_word": "sich outen",
+          "english_example": "Her parents never really knew much about gays or lesbians, but when Lisa came out they had no problem with it at all.",
+          "german_example": "Ihre Eltern wussten nie wirklich viel über Schwule oder Lesben, aber als Lisa sich outete, hatten sie überhaupt kein Problem damit."
+        },
+        {
+          "english_word": "curious",
+          "german_word": "neugierig",
+          "english_example": "My little brother always tries to listen to my private conversations. He's very curious.",
+          "german_example": "Mein kleiner Bruder versucht immer, meine privaten Gespräche mitanzuhören. Er ist sehr neugierig."
+        },
+        {
+          "english_word": "sensitive",
+          "german_word": "sensibel; empfindsam; heikel",
+          "english_example": "If you're sensitive, you're aware of other people's feelings.",
+          "german_example": "Wenn man sensibel ist, nimmt man die Gefühle anderer Menschen wahr."
+        },
+        {
+          "english_word": "problematic",
+          "german_word": "problematisch; schwierig",
+          "english_example": "He was in a problematic situation when she found out he had lied.",
+          "german_example": "Er befand sich in einer schwierigen Situation, als sie herausfand, dass er gelogen hatte."
+        },
+        {
+          "english_word": "to embarrass",
+          "german_word": "in Verlegenheit bringen",
+          "english_example": "My friend embarrassed me when he told my girlfriend about my real feelings.",
+          "german_example": "Mein Freund brachte mich in Verlegenheit, als er meiner Freundin von meinen wahren Gefühlen erzählte."
+        },
+        {
+          "english_word": "rumour",
+          "german_word": "Gerücht",
+          "english_example": "There are rumours that she's left him. – Well, don't believe everything you hear.",
+          "german_example": "Es gibt Gerüchte, dass sie ihn verlassen hat. – Nun, glaub nicht alles, was du hörst."
+        }
+      ]
+    }
+  ]
+}

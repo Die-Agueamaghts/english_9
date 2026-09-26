@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "ts2_argumentative_texts",
+      "name": "TS2: Argumentative texts",
+      "cards": [
+        {
+          "english_word": "to speak out (about sth)",
+          "german_word": "seine Meinung (über etw.) deutlich vertreten; sich (zu etw.) äußern",
+          "english_example": "Paul is always the first to speak out about things he thinks are wrong or unfair.",
+          "german_example": "Paul ist immer der Erste, der seine Meinung über Dinge äußert, die er für falsch oder unfair hält."
+        },
+        {
+          "english_word": "criticism",
+          "german_word": "Kritik",
+          "english_example": "There was a lot of criticism of the new school rules.",
+          "german_example": "Es gab viel Kritik an den neuen Schulregeln."
+        },
+        {
+          "english_word": "insult",
+          "german_word": "Beleidigung",
+          "english_example": "Fair criticism is one thing, but there's nothing fair about a nasty insult.",
+          "german_example": "Faire Kritik ist das eine, aber an einer gemeinen Beleidigung ist nichts fair."
+        },
+        {
+          "english_word": "to collapse",
+          "german_word": "kollabieren; zusammenbrechen",
+          "english_example": "If a building collapses, it falls to the ground.",
+          "german_example": "Wenn ein Gebäude zusammenbricht, stürzt es zu Boden."
+        },
+        {
+          "english_word": "provocative",
+          "german_word": "provokativ; provozierend",
+          "english_example": "Their provocative fashion was in the news.",
+          "german_example": "Ihre provokante Mode war in den Nachrichten."
+        },
+        {
+          "english_word": "to tolerate",
+          "german_word": "tolerieren; dulden",
+          "english_example": "I can tolerate a lot, but I've really had enough of his insults.",
+          "german_example": "Ich kann viel tolerieren, aber von seinen Beleidigungen habe ich jetzt wirklich genug."
+        },
+        {
+          "english_word": "to do away with sth",
+          "german_word": "etw. abschaffen; etw. loswerden",
+          "english_example": "We did away with the rule of asking permission before you go to the toilet.",
+          "german_example": "Wir haben die Regel abgeschafft, um Erlaubnis zu fragen, bevor man auf die Toilette geht."
+        },
+        {
+          "english_word": "candidate",
+          "german_word": "Kandidat/-in; Bewerber/-in",
+          "english_example": "The ideal candidate should be able to take on responsibility.",
+          "german_example": "Der ideale Kandidat sollte in der Lage sein, Verantwortung zu übernehmen."
+        },
+        {
+          "english_word": "in the first place",
+          "german_word": "überhaupt erst; von vornherein",
+          "english_example": "Mum, I'm really sorry about coming home so late from the club. – Being late is bad enough, but what were you doing in a club in the first place?",
+          "german_example": "Mama, es tut mir wirklich leid, dass ich so spät aus dem Club nach Hause komme. – Zu spät zu sein ist schlimm genug, aber was hast du überhaupt erst in einem Club gemacht?"
+        },
+        {
+          "english_word": "vegan",
+          "german_word": "vegan; Veganer/-in",
+          "english_example": "With their choice of food, vegans want to protect the environment and animals.",
+          "german_example": "Mit ihrer Lebensmittelauswahl wollen Veganer die Umwelt und die Tiere schützen."
+        },
+		{
+          "english_word": "to fail sb",
+          "german_word": "jmdn. hängen lassen; jmdn. im Stich lassen; jmdn. enttäuschen",
+          "english_example": "My best friend failed me when I was in trouble. I will never forgive her.",
+          "german_example": "Meine beste Freundin hat mich hängen lassen, als ich in Schwierigkeiten war. Ich werde ihr nie verzeihen."
+        },
+        {
+          "english_word": "to confront",
+          "german_word": "konfrontieren",
+          "english_example": "My dad confronted me with a letter from school.",
+          "german_example": "Mein Vater konfrontierte mich mit einem Brief von der Schule."
+        },
+        {
+          "english_word": "to present sb with sth",
+          "german_word": "jmdm. etw. darbieten; jmdm. etw. präsentieren; jmdm. etw. schenken",
+          "english_example": "Adverts present us with a lot of things we don't need, but which we often want.",
+          "german_example": "Werbung präsentiert uns viele Dinge, die wir nicht brauchen, aber oft haben wollen."
+        },
+        {
+          "english_word": "sporty",
+          "german_word": "sportlich",
+          "english_example": "My sporty friend goes running every day.",
+          "german_example": "Mein sportlicher Freund geht jeden Tag laufen."
+        },
+        {
+          "english_word": "billionaire",
+          "german_word": "Milliardär/-in",
+          "english_example": "How many billionaires are there in Germany?",
+          "german_example": "Wie viele Milliardäre gibt es in Deutschland?"
+        },
+        {
+          "english_word": "outdated",
+          "german_word": "veraltet; überholt",
+          "english_example": "I say his opinion is outdated, but he insists it's just traditional.",
+          "german_example": "Ich sage, seine Meinung ist veraltet, aber er besteht darauf, dass sie nur traditionell ist."
+        },
+        {
+          "english_word": "realism",
+          "german_word": "Realismus; Realitätssinn",
+          "english_example": "The film is a mix of fiction and realism.",
+          "german_example": "Der Film ist eine Mischung aus Fiktion und Realismus."
+        },
+        {
+          "english_word": "role model",
+          "german_word": "Vorbild",
+          "english_example": "My role model is my older sister.",
+          "german_example": "Mein Vorbild ist meine ältere Schwester."
+        },
+        {
+          "english_word": "balance",
+          "german_word": "Gleichgewicht",
+          "english_example": "In the article he finds a good balance between scientific and normal language.",
+          "german_example": "In dem Artikel findet er ein gutes Gleichgewicht zwischen wissenschaftlicher und normaler Sprache."
+        },
+        {
+          "english_word": "brief",
+          "german_word": "kurz",
+          "english_example": "Has Mrs Chen told you about the new project yet? – No, I only saw her briefly this morning, there was no time.",
+          "german_example": "Hat Frau Chen dir schon von dem neuen Projekt erzählt? – Nein, ich habe sie heute Morgen nur kurz gesehen, es war keine Zeit."
+        },
+        {
+          "english_word": "altogether",
+          "german_word": "insgesamt; gänzlich; ganz und gar",
+          "english_example": "A kilo of apples and a kilo of oranges, that'll be £5 altogether.",
+          "german_example": "Ein Kilo Äpfel und ein Kilo Orangen, das macht insgesamt 5 Pfund."
+        }
+      ]
+    }
+  ]
+}
